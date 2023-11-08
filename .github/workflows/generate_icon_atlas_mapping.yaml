@@ -1,9 +1,12 @@
-name: cd
+name: Generate icon atlas and icon mapping
 
 on:
   push:
     branches:
       - "main"
+    paths:
+      - "assets/icons/**"
+      - "scripts/generate_icon_atlas_and_mapping.py"
   workflow_dispatch:
 
 jobs:
