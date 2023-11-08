@@ -12,6 +12,12 @@ jobs:
     # This job will only run if the PR has been merged (and not closed without merging).
     if: "github.event.pull_request.merged == true && !contains(github.event.pull_request.head.message, 'skipci')"
     runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -23,21 +29,15 @@ jobs:
         id: version
         run: echo "::set-output name=package_version::$(poetry version -s)"
 
+      - name: Install dependencies
+        run: poetry install
+
       - name: Generate icon atlas and icon mapping
         id: generate-icon-meta
-        run: echo "Generating icon atlas and icon mapping"
+        run: poetry run python scripts/generate_icon_atlas_and_mapping.py
 
       - name: Commit sprite sheet to repo public folder
         id: commit-back
-        run: echo "Committing generated icon atlas and icon mapping to repo"
-
-      # - name: Create release
-      #   uses: actions/create-release@v1
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, no need to create your own.
-      #   with:
-      #     tag_name: ${{ steps.version.outputs.package_version }}
-      #     release_name: ${{ github.event.pull_request.title }}
-      #     body: ${{ github.event.pull_request.body }}
-      #     draft: false
-      #     prerelease: false
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "OPS: Generate icon atlas and icon mapping"

@@ -82,12 +82,12 @@ def main():
     number_of_images = len(images)
 
     logger.info("Adding %s icons to the icon atlas", number_of_images)
-    icon_atlas_file_path = "icon_atlas.png"
+    icon_atlas_file_path = os.path.join(REPOSITORY_ROOT_FOLDER, "public", "icon_atlas.png")
 
     icon_mapping = generate_icon_atlas(images, icon_atlas_file_path)
     logger.info("Generated icon atlas at location %s", icon_atlas_file_path)
 
-    icon_mapping_file_path = "icon_mapping.json"
+    icon_mapping_file_path = os.path.join(REPOSITORY_ROOT_FOLDER, "public", "icon_mapping.json")
     with open(icon_mapping_file_path, "w", encoding="utf-8") as fo:
         json.dump(icon_mapping, fo, indent=2)
 
