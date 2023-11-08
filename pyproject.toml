@@ -11,6 +11,9 @@ python = "^3.9"
 pillow = "^10.1.0"
 
 
+[tool.poetry.group.dev.dependencies]
+pre-commit = "^3.5.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
