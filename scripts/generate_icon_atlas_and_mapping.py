@@ -1,5 +1,8 @@
 import os
+import logging
 from PIL import Image
+
+logger = logging.getLogger(__name__)
 
 
 REPOSITORY_ROOT_FOLDER = os.path.dirname(os.path.dirname(__file__))
@@ -42,8 +45,19 @@ def generate_icon_atlas(images, file_path, icons_in_a_row=10, spacing=10):
 
 
 def main():
+    logger.info("Preparing list of icons to add to icon atlas. Accepts only png files")
+
     images = get_icon_images(os.path.join(REPOSITORY_ROOT_FOLDER, "assets", "icons"))
-    generate_icon_atlas(images, "icon_atlas.png")
+    number_of_images = len(images)
+    
+    logger.info("Adding %s icons to the icon atlas", number_of_images)
+    icon_atlas_file_path = "icon_atlas.png"
+    try:
+        generate_icon_atlas(images, icon_atlas_file_path)
+    except:
+        logger.info("Failed to generate icon_atlas")
+    else:
+        logger.info("Generated icon atlas at location %s", icon_atlas_file_path)
 
 
 if __name__ == "__main__":
