@@ -8,8 +8,6 @@ on:
 
 jobs:
   release:
-    # This job will only run if the PR has been merged (and not closed without merging).
-    if: "github.event.pull_request.merged == true && !contains(github.event.pull_request.head.message, 'skipci')"
     runs-on: ubuntu-latest
 
     permissions:
