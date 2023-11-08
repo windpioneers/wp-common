@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Naveen Anil <naveen.anil@wind-pioneers.com>"]
 readme = "README.md"
-packages = [{include = "wp_common"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
