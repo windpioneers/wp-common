@@ -2,7 +2,15 @@ import os
 import logging
 from PIL import Image
 
+
+ch = logging.StreamHandler()
+ch.setLevel(logging.INFO)
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+ch.setFormatter(formatter)
+
 logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+logger.addHandler(ch)
 
 
 REPOSITORY_ROOT_FOLDER = os.path.dirname(os.path.dirname(__file__))
