@@ -8,6 +8,7 @@ packages = [{include = "wp_common"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pillow = "^10.1.0"
 
 
 [build-system]
