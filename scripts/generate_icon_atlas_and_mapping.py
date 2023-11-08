@@ -1,3 +1,4 @@
+import json
 import logging
 import math
 import os
@@ -35,6 +36,8 @@ def get_icon_images(icon_folder, icon_extension="png"):
 
 
 def generate_icon_atlas(images, file_path, icons_in_a_row=10, spacing=10, embed_name=False):
+    icon_mapping = {}
+
     # Assume all icons have the same height and width
     width, height = images[0].size
 
@@ -54,9 +57,22 @@ def generate_icon_atlas(images, file_path, icons_in_a_row=10, spacing=10, embed_
 
         image_x = spacing + (width * column) + (spacing * column)
         image_y = spacing + (height * row) + (spacing * row)
+
         icon_atlas.paste(image, (image_x, image_y))
 
+        icon_name = os.path.splitext(os.path.basename(image.filename))[0]
+        icon_mapping[icon_name] = {
+            "x": image_x,
+            "y": image_y,
+            "width": width,
+            "height": height,
+            "mask": False,  # Set this to True if we want to change the icon colors dynamically
+            "anchorY": height / 2,  # If the icon has a glyph or is not centered do 'height'
+        }
+
     icon_atlas.save(file_path)
+
+    return icon_mapping
 
 
 def main():
@@ -68,8 +84,12 @@ def main():
     logger.info("Adding %s icons to the icon atlas", number_of_images)
     icon_atlas_file_path = "icon_atlas.png"
 
-    generate_icon_atlas(images, icon_atlas_file_path)
+    icon_mapping = generate_icon_atlas(images, icon_atlas_file_path)
     logger.info("Generated icon atlas at location %s", icon_atlas_file_path)
+
+    icon_mapping_file_path = "icon_mapping.json"
+    with open(icon_mapping_file_path, "w", encoding="utf-8") as fo:
+        json.dump(icon_mapping, fo, indent=2)
 
 
 if __name__ == "__main__":
