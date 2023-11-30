@@ -4,7 +4,7 @@
     "y": 10,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "bridgeIcon": {
@@ -12,7 +12,7 @@
     "y": 10,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "buildingIcon": {
@@ -20,7 +20,7 @@
     "y": 10,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "camera": {
@@ -28,7 +28,7 @@
     "y": 10,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "changeHistory": {
@@ -36,7 +36,7 @@
     "y": 10,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "church": {
@@ -44,7 +44,7 @@
     "y": 10,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "circleIcon": {
@@ -52,7 +52,7 @@
     "y": 10,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "cropSquare": {
@@ -60,7 +60,7 @@
     "y": 10,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "directionsBoat": {
@@ -68,7 +68,7 @@
     "y": 10,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "electricBolt": {
@@ -76,7 +76,7 @@
     "y": 10,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "errorOutline": {
@@ -84,7 +84,7 @@
     "y": 70,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "euro": {
@@ -92,7 +92,7 @@
     "y": 70,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "fireTruck": {
@@ -100,7 +100,7 @@
     "y": 70,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "flagIcon": {
@@ -108,7 +108,7 @@
     "y": 70,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "flight": {
@@ -116,7 +116,7 @@
     "y": 70,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "hazardIcon": {
@@ -124,7 +124,7 @@
     "y": 70,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "home": {
@@ -132,7 +132,7 @@
     "y": 70,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "houseIcon": {
@@ -140,7 +140,7 @@
     "y": 70,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "informationIcon": {
@@ -148,7 +148,7 @@
     "y": 70,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "lidarIcon": {
@@ -156,7 +156,7 @@
     "y": 70,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "location": {
@@ -164,7 +164,7 @@
     "y": 130,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "man": {
@@ -172,7 +172,7 @@
     "y": 130,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "mastIcon": {
@@ -180,7 +180,7 @@
     "y": 130,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "park": {
@@ -188,7 +188,7 @@
     "y": 130,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "photographIcon": {
@@ -196,7 +196,7 @@
     "y": 130,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "priorityIcon": {
@@ -204,7 +204,7 @@
     "y": 130,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "pylonIcon": {
@@ -212,7 +212,7 @@
     "y": 130,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "simonIcon": {
@@ -220,7 +220,7 @@
     "y": 130,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "siteAccessIcon": {
@@ -228,7 +228,7 @@
     "y": 130,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "siteIcon": {
@@ -236,7 +236,7 @@
     "y": 130,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "siting": {
@@ -244,7 +244,7 @@
     "y": 190,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "squareIcon": {
@@ -252,7 +252,7 @@
     "y": 190,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "style_Airports": {
@@ -1204,7 +1204,7 @@
     "y": 910,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "touristIcon": {
@@ -1212,7 +1212,7 @@
     "y": 910,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "triangleIcon": {
@@ -1220,7 +1220,7 @@
     "y": 910,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "tripOrigin": {
@@ -1228,7 +1228,7 @@
     "y": 910,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "turbineIcon": {
@@ -1236,15 +1236,15 @@
     "y": 910,
     "width": 50,
     "height": 50,
-    "mask": false,
-    "anchorY": 25.0
+    "mask": true,
+    "anchorY": 50
   },
   "volcano": {
     "x": 310,
     "y": 910,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "warning": {
@@ -1252,7 +1252,7 @@
     "y": 910,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "water": {
@@ -1260,7 +1260,7 @@
     "y": 910,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "waypointIcon": {
@@ -1268,7 +1268,7 @@
     "y": 910,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   },
   "windFarm": {
@@ -1276,7 +1276,7 @@
     "y": 910,
     "width": 50,
     "height": 50,
-    "mask": false,
+    "mask": true,
     "anchorY": 25.0
   }
 }
