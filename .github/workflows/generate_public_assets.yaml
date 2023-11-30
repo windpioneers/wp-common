@@ -37,3 +37,13 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "OPS: Generate icon atlas and icon mapping"
+
+      - name: Generate styles
+        id: generate-styles
+        run: poetry run python scripts/generate_styles.py
+
+      - name: Commit styles.json to repo public folder
+        id: commit-back
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "OPS: Generate styles.json"
