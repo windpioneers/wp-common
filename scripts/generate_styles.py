@@ -48,6 +48,10 @@ def convert_to_hex_color(value):
 SCHEMA_TYPE_CAST_MAP = {"number": float, "hexColor": convert_to_hex_color, "string": str, "integer": int}
 
 
+def add_alpha_proportion_to_hex_color(color_code, proportion):
+    return "{}{:02x}".format(color_code, int(proportion * 255))
+
+
 def generate_style(row, headers):
     style = {}
     for header_item, row_item in zip(headers, row):
@@ -75,12 +79,18 @@ def generate_styles(style_rows):
 def transform_styles_for_windquest(styles):
     wq_styles = {}
     for key, value in styles.items():
+        opacity = value["line_opacity"] / 100
+        fill_opacity = value["area_opacity"] / 100
         wq_styles[key] = {
-            "color": value["line_color"],  # Gets applied to paths as stroke-color
             "weight": value["line_width"] * 3,  # Gets applied to paths as stroke-width. WQ medium line weight is 3
-            "opacity": value["line_transparency"] / 100,  # Gets applied to paths as stroke-opacity
-            "fillColor": value["area_color"],  # Gets applied to paths as fill-color
-            "fillOpacity": value["area_transparency"] / 100,  # Gets applied to paths as fill-opacity
+            "color": add_alpha_proportion_to_hex_color(
+                value["line_color"], opacity
+            ),  # Gets applied to paths as stroke-color
+            "opacity": opacity,  # Gets applied to paths as stroke-opacity
+            "fillColor": add_alpha_proportion_to_hex_color(
+                value["area_color"], fill_opacity
+            ),  # Gets applied to paths as fill-color
+            "fillOpacity": fill_opacity,  # Gets applied to paths as fill-opacity
         }
 
     return wq_styles

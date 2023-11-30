@@ -1,0 +1,814 @@
+{
+  "style_Airports": {
+    "weight": 3.0,
+    "color": "#CCCBCAff",
+    "opacity": 1.0,
+    "fillColor": "#CCCBCA66",
+    "fillOpacity": 0.4
+  },
+  "style_Amber": {
+    "weight": 3.0,
+    "color": "#83B5FFff",
+    "opacity": 1.0,
+    "fillColor": "#83B5FF66",
+    "fillOpacity": 0.4
+  },
+  "style_AnimalKeeping": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Aquaculture": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Avalanche": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_BatteryStorage": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Biohazard": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_BirdRisk": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Blue": {
+    "weight": 1.5,
+    "color": "#DBD59Cff",
+    "opacity": 1.0,
+    "fillColor": "#DBD59C66",
+    "fillOpacity": 0.4
+  },
+  "style_Boundary": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Breakwater": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Bridge": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Buildings": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_BuiltUpAreas": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Cemetery": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_CommunicationTower": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_CoralReefs": {
+    "weight": 3.0,
+    "color": "#CCDB9Cff",
+    "opacity": 1.0,
+    "fillColor": "#CCDB9C66",
+    "fillOpacity": 0.4
+  },
+  "style_Creamery": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Dam": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_DisasterProneArea": {
+    "weight": 3.0,
+    "color": "#7679DEff",
+    "opacity": 1.0,
+    "fillColor": "#7679DE66",
+    "fillOpacity": 0.4
+  },
+  "style_Dock": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Drydock": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_EducationalFacility": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Embankment": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_FerryLanes": {
+    "weight": 3.0,
+    "color": "#CCDB9Cff",
+    "opacity": 1.0,
+    "fillColor": "#CCDB9C66",
+    "fillOpacity": 0.4
+  },
+  "style_Flooding": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_GasandOilPipelines": {
+    "weight": 3.0,
+    "color": "#CCDB9Cff",
+    "opacity": 1.0,
+    "fillColor": "#CCDB9C66",
+    "fillOpacity": 0.4
+  },
+  "style_GasandOilWellsArea": {
+    "weight": 3.0,
+    "color": "#CCDB9Cff",
+    "opacity": 1.0,
+    "fillColor": "#CCDB9C66",
+    "fillOpacity": 0.4
+  },
+  "style_Grassland": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Green": {
+    "weight": 3.0,
+    "color": "#9CD89Cff",
+    "opacity": 1.0,
+    "fillColor": "#9CD89C66",
+    "fillOpacity": 0.4
+  },
+  "style_Grey": {
+    "weight": 3.0,
+    "color": "#CCCBCAff",
+    "opacity": 1.0,
+    "fillColor": "#CCCBCA66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid": {
+    "weight": 3.0,
+    "color": "#DE7BEFff",
+    "opacity": 1.0,
+    "fillColor": "#DE7BEF66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-110kV": {
+    "weight": 3.0,
+    "color": "#DE7BEFff",
+    "opacity": 1.0,
+    "fillColor": "#DE7BEF66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-11kV": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-132kV": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-19kV": {
+    "weight": 3.0,
+    "color": "#9CD89Cff",
+    "opacity": 1.0,
+    "fillColor": "#9CD89C66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-220kV": {
+    "weight": 3.0,
+    "color": "#66E5FFff",
+    "opacity": 1.0,
+    "fillColor": "#66E5FF66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-22kV": {
+    "weight": 3.0,
+    "color": "#83B5FFff",
+    "opacity": 1.0,
+    "fillColor": "#83B5FF66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-25kV": {
+    "weight": 3.0,
+    "color": "#7DF9EDff",
+    "opacity": 1.0,
+    "fillColor": "#7DF9ED66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-275kV": {
+    "weight": 3.0,
+    "color": "#FCCADAff",
+    "opacity": 1.0,
+    "fillColor": "#FCCADA66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-330kV": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-33kV": {
+    "weight": 3.0,
+    "color": "#CCCBCAff",
+    "opacity": 1.0,
+    "fillColor": "#CCCBCA66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-440kV": {
+    "weight": 3.0,
+    "color": "#9FEDCCff",
+    "opacity": 1.0,
+    "fillColor": "#9FEDCC66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-44kV": {
+    "weight": 3.0,
+    "color": "#CCDB9Cff",
+    "opacity": 1.0,
+    "fillColor": "#CCDB9C66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-550kV": {
+    "weight": 3.0,
+    "color": "#7B97FFff",
+    "opacity": 1.0,
+    "fillColor": "#7B97FF66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-66kV": {
+    "weight": 1.5,
+    "color": "#DBD59Cff",
+    "opacity": 1.0,
+    "fillColor": "#DBD59C66",
+    "fillOpacity": 0.4
+  },
+  "style_Grid-88kV": {
+    "weight": 3.0,
+    "color": "#7679DEff",
+    "opacity": 1.0,
+    "fillColor": "#7679DE66",
+    "fillOpacity": 0.4
+  },
+  "style_Habitations": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Harbour": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_HealthcareFacility": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Heliport": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_HeritageArea": {
+    "weight": 3.0,
+    "color": "#83B5FFff",
+    "opacity": 1.0,
+    "fillColor": "#83B5FF66",
+    "fillOpacity": 0.4
+  },
+  "style_Highways": {
+    "weight": 3.0,
+    "color": "#66E5FFff",
+    "opacity": 1.0,
+    "fillColor": "#66E5FF66",
+    "fillOpacity": 0.4
+  },
+  "style_HistoricAreas": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_HydropowerPlant": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_IUCN": {
+    "weight": 3.0,
+    "color": "#9FEDCCff",
+    "opacity": 1.0,
+    "fillColor": "#9FEDCC66",
+    "fillOpacity": 0.4
+  },
+  "style_IndigenousCommunities": {
+    "weight": 3.0,
+    "color": "#7B97FFff",
+    "opacity": 1.0,
+    "fillColor": "#7B97FF66",
+    "fillOpacity": 0.4
+  },
+  "style_Industrial": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_InlandWater": {
+    "weight": 1.5,
+    "color": "#DBD59Cff",
+    "opacity": 1.0,
+    "fillColor": "#DBD59C66",
+    "fillOpacity": 0.4
+  },
+  "style_Landfill": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Landslide": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Lime": {
+    "weight": 3.0,
+    "color": "#7DF9EDff",
+    "opacity": 1.0,
+    "fillColor": "#7DF9ED66",
+    "fillOpacity": 0.4
+  },
+  "style_Man-madeinfrastructure": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_MarineProtection": {
+    "weight": 3.0,
+    "color": "#CCDB9Cff",
+    "opacity": 1.0,
+    "fillColor": "#CCDB9C66",
+    "fillOpacity": 0.4
+  },
+  "style_MaritimeLines": {
+    "weight": 3.0,
+    "color": "#CCDB9Cff",
+    "opacity": 1.0,
+    "fillColor": "#CCDB9C66",
+    "fillOpacity": 0.4
+  },
+  "style_Mast": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Military": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Mining": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Mint": {
+    "weight": 3.0,
+    "color": "#9FEDCCff",
+    "opacity": 1.0,
+    "fillColor": "#9FEDCC66",
+    "fillOpacity": 0.4
+  },
+  "style_MountainPeak": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_NationalPark": {
+    "weight": 3.0,
+    "color": "#9FEDCCff",
+    "opacity": 1.0,
+    "fillColor": "#9FEDCC66",
+    "fillOpacity": 0.4
+  },
+  "style_NaturalLandCover": {
+    "weight": 3.0,
+    "color": "#9CD89Cff",
+    "opacity": 1.0,
+    "fillColor": "#9CD89C66",
+    "fillOpacity": 0.4
+  },
+  "style_NonRenewableEnergyPowerStation": {
+    "weight": 3.0,
+    "color": "#7DF9EDff",
+    "opacity": 1.0,
+    "fillColor": "#7DF9ED66",
+    "fillOpacity": 0.4
+  },
+  "style_NuclearHazard": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_NuclearPowerPlant": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_OilField": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Orange": {
+    "weight": 3.0,
+    "color": "#7B97FFff",
+    "opacity": 1.0,
+    "fillColor": "#7B97FF66",
+    "fillOpacity": 0.4
+  },
+  "style_Orchard": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_PalaeontologicalSite": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Pink": {
+    "weight": 3.0,
+    "color": "#DE7BEFff",
+    "opacity": 1.0,
+    "fillColor": "#DE7BEF66",
+    "fillOpacity": 0.4
+  },
+  "style_Pipeline": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Ports": {
+    "weight": 3.0,
+    "color": "#CCCBCAff",
+    "opacity": 1.0,
+    "fillColor": "#CCCBCA66",
+    "fillOpacity": 0.4
+  },
+  "style_Powerstations": {
+    "weight": 3.0,
+    "color": "#7DF9EDff",
+    "opacity": 1.0,
+    "fillColor": "#7DF9ED66",
+    "fillOpacity": 0.4
+  },
+  "style_PrimaryRoads": {
+    "weight": 3.0,
+    "color": "#66E5FFff",
+    "opacity": 1.0,
+    "fillColor": "#66E5FF66",
+    "fillOpacity": 0.4
+  },
+  "style_ProtectedAreas": {
+    "weight": 3.0,
+    "color": "#9FEDCCff",
+    "opacity": 1.0,
+    "fillColor": "#9FEDCC66",
+    "fillOpacity": 0.4
+  },
+  "style_ProtectedForest": {
+    "weight": 3.0,
+    "color": "#9FEDCCff",
+    "opacity": 1.0,
+    "fillColor": "#9FEDCC66",
+    "fillOpacity": 0.4
+  },
+  "style_Province": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_REZ": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Railways": {
+    "weight": 3.0,
+    "color": "#CCCBCAff",
+    "opacity": 1.0,
+    "fillColor": "#CCCBCA66",
+    "fillOpacity": 0.4
+  },
+  "style_Red": {
+    "weight": 3.0,
+    "color": "#7679DEff",
+    "opacity": 1.0,
+    "fillColor": "#7679DE66",
+    "fillOpacity": 0.4
+  },
+  "style_ReligiousBuildings": {
+    "weight": 3.0,
+    "color": "#83B5FFff",
+    "opacity": 1.0,
+    "fillColor": "#83B5FF66",
+    "fillOpacity": 0.4
+  },
+  "style_RenewableEnergyPowerStation": {
+    "weight": 3.0,
+    "color": "#7DF9EDff",
+    "opacity": 1.0,
+    "fillColor": "#7DF9ED66",
+    "fillOpacity": 0.4
+  },
+  "style_Roads": {
+    "weight": 1.5,
+    "color": "#66E5FFff",
+    "opacity": 1.0,
+    "fillColor": "#66E5FF66",
+    "fillOpacity": 0.4
+  },
+  "style_Rose": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_SEZ": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Salmon": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_SecondaryRoads": {
+    "weight": 3.0,
+    "color": "#66E5FFff",
+    "opacity": 1.0,
+    "fillColor": "#66E5FF66",
+    "fillOpacity": 0.4
+  },
+  "style_Settlements": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_SolarPlant": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_SpeciesData": {
+    "weight": 3.0,
+    "color": "#FCCADAff",
+    "opacity": 1.0,
+    "fillColor": "#FCCADA66",
+    "fillOpacity": 0.4
+  },
+  "style_Substations": {
+    "weight": 3.0,
+    "color": "#7DF9EDff",
+    "opacity": 1.0,
+    "fillColor": "#7DF9ED66",
+    "fillOpacity": 0.4
+  },
+  "style_Teal": {
+    "weight": 3.0,
+    "color": "#CCDB9Cff",
+    "opacity": 1.0,
+    "fillColor": "#CCDB9C66",
+    "fillOpacity": 0.4
+  },
+  "style_Tourist": {
+    "weight": 3.0,
+    "color": "#83B5FFff",
+    "opacity": 1.0,
+    "fillColor": "#83B5FF66",
+    "fillOpacity": 0.4
+  },
+  "style_TouristAccomodation": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Towns": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Tracks": {
+    "weight": 3.0,
+    "color": "#66E5FFff",
+    "opacity": 1.0,
+    "fillColor": "#66E5FF66",
+    "fillOpacity": 0.4
+  },
+  "style_Treesandvegetativecover": {
+    "weight": 3.0,
+    "color": "#9CD89Cff",
+    "opacity": 1.0,
+    "fillColor": "#9CD89C66",
+    "fillOpacity": 0.4
+  },
+  "style_UnexplodedOrdnance": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_UrbanAreas": {
+    "weight": 3.0,
+    "color": "#E6CCFFff",
+    "opacity": 1.0,
+    "fillColor": "#E6CCFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Violet": {
+    "weight": 3.0,
+    "color": "#FCCADAff",
+    "opacity": 1.0,
+    "fillColor": "#FCCADA66",
+    "fillOpacity": 0.4
+  },
+  "style_Volcano": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_WeatherMonitoringStation": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_White": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_WindTurbines": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "style_Yellow": {
+    "weight": 3.0,
+    "color": "#66E5FFff",
+    "opacity": 1.0,
+    "fillColor": "#66E5FF66",
+    "fillOpacity": 0.4
+  },
+  "style_geyser": {
+    "weight": 3.0,
+    "color": "#FFFFFFff",
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  }
+}
