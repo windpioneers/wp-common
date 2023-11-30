@@ -1,946 +1,946 @@
 {
-  "style_Grey": {
+  "style_Airports": {
     "x": 10,
     "y": 10,
-    "width": 70,
-    "height": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_TouristAccomodation": {
-    "x": 90,
+  "style_Amber": {
+    "x": 70,
     "y": 10,
-    "width": 70,
-    "height": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_NationalPark": {
-    "x": 170,
+  "style_AnimalKeeping": {
+    "x": 130,
     "y": 10,
-    "width": 70,
-    "height": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Treesandvegetativecover": {
+  "style_Aquaculture": {
+    "x": 190,
+    "y": 10,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Avalanche": {
     "x": 250,
     "y": 10,
-    "width": 70,
-    "height": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Lime": {
-    "x": 330,
+  "style_BatteryStorage": {
+    "x": 310,
     "y": 10,
-    "width": 70,
-    "height": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
-  },
-  "style_NuclearPowerPlant": {
-    "x": 410,
-    "y": 10,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_WeatherMonitoringStation": {
-    "x": 490,
-    "y": 10,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Towns": {
-    "x": 570,
-    "y": 10,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_HotSpring": {
-    "x": 650,
-    "y": 10,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_GasandOilPipelines": {
-    "x": 730,
-    "y": 10,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Grassland": {
-    "x": 10,
-    "y": 90,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Dock": {
-    "x": 90,
-    "y": 90,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Powerstations": {
-    "x": 170,
-    "y": 90,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_HealthcareFacility": {
-    "x": 250,
-    "y": 90,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
   "style_Biohazard": {
-    "x": 330,
-    "y": 90,
-    "width": 70,
-    "height": 70,
+    "x": 370,
+    "y": 10,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Pink": {
-    "x": 410,
-    "y": 90,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Military": {
-    "x": 490,
-    "y": 90,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Dam_1": {
-    "x": 570,
-    "y": 90,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_ProtectedForest": {
-    "x": 650,
-    "y": 90,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
   "style_BirdRisk": {
-    "x": 730,
-    "y": 90,
-    "width": 70,
-    "height": 70,
+    "x": 430,
+    "y": 10,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Mast": {
-    "x": 10,
-    "y": 170,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Landfill": {
-    "x": 90,
-    "y": 170,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_SecondaryRoads": {
-    "x": 170,
-    "y": 170,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_PalaeontologicalSite": {
-    "x": 250,
-    "y": 170,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Volcano": {
-    "x": 330,
-    "y": 170,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_MaritimeLines": {
-    "x": 410,
-    "y": 170,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Embankment": {
+  "style_Blue": {
     "x": 490,
-    "y": 170,
-    "width": 70,
-    "height": 70,
+    "y": 10,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Mint": {
-    "x": 570,
-    "y": 170,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_IUCN": {
-    "x": 650,
-    "y": 170,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
   "style_Boundary": {
-    "x": 730,
-    "y": 170,
-    "width": 70,
-    "height": 70,
+    "x": 550,
+    "y": 10,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
+  },
+  "style_Breakwater": {
+    "x": 10,
+    "y": 70,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
   },
   "style_Buildings": {
-    "x": 10,
-    "y": 250,
-    "width": 70,
-    "height": 70,
+    "x": 70,
+    "y": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
-  },
-  "style_NonRenewableEnergyPowerStation": {
-    "x": 90,
-    "y": 250,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Orange": {
-    "x": 170,
-    "y": 250,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_HydropowerPlant": {
-    "x": 250,
-    "y": 250,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Settlements": {
-    "x": 330,
-    "y": 250,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_SolarPlant": {
-    "x": 410,
-    "y": 250,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Grid-22kV": {
-    "x": 490,
-    "y": 250,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
   "style_BuiltUpAreas": {
-    "x": 570,
-    "y": 250,
-    "width": 70,
-    "height": 70,
+    "x": 130,
+    "y": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Grid": {
-    "x": 650,
-    "y": 250,
-    "width": 70,
-    "height": 70,
+  "style_Cemetery": {
+    "x": 190,
+    "y": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Railways": {
-    "x": 730,
-    "y": 250,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Landslide": {
-    "x": 10,
-    "y": 330,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_ProtectedAreas": {
-    "x": 90,
-    "y": 330,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Airports": {
-    "x": 170,
-    "y": 330,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Grid-110kV": {
+  "style_Cemetery_v1": {
     "x": 250,
-    "y": 330,
-    "width": 70,
-    "height": 70,
+    "y": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Grid-44kV": {
-    "x": 330,
-    "y": 330,
-    "width": 70,
-    "height": 70,
+  "style_CommunicationTower": {
+    "x": 310,
+    "y": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
+  },
+  "style_CoralReefs": {
+    "x": 370,
+    "y": 70,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
   },
   "style_Creamery": {
-    "x": 410,
-    "y": 330,
-    "width": 70,
-    "height": 70,
+    "x": 430,
+    "y": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Flooding": {
+  "style_Dam": {
     "x": 490,
-    "y": 330,
-    "width": 70,
-    "height": 70,
+    "y": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Grid-19kV": {
-    "x": 570,
-    "y": 330,
-    "width": 70,
-    "height": 70,
+  "style_Dam_1": {
+    "x": 550,
+    "y": 70,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Grid-440kV": {
-    "x": 650,
-    "y": 330,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_InlandWater": {
-    "x": 730,
-    "y": 330,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
   "style_DisasterProneArea": {
     "x": 10,
-    "y": 410,
-    "width": 70,
-    "height": 70,
+    "y": 130,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Highways": {
-    "x": 90,
-    "y": 410,
-    "width": 70,
-    "height": 70,
+  "style_Dock": {
+    "x": 70,
+    "y": 130,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Province": {
-    "x": 170,
-    "y": 410,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Industrial": {
-    "x": 250,
-    "y": 410,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_NaturalLandCover": {
-    "x": 330,
-    "y": 410,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Tracks": {
-    "x": 410,
-    "y": 410,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_MaritimeLines2": {
-    "x": 490,
-    "y": 410,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Heliport": {
-    "x": 570,
-    "y": 410,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Amber": {
-    "x": 650,
-    "y": 410,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Grid-220kV": {
-    "x": 730,
-    "y": 410,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Religiousbuildings": {
-    "x": 10,
-    "y": 490,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_FerryLanes": {
-    "x": 90,
-    "y": 490,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_AnimalKeeping": {
-    "x": 170,
-    "y": 490,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Red": {
-    "x": 250,
-    "y": 490,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Cemetery": {
-    "x": 330,
-    "y": 490,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Cemetery_v1": {
-    "x": 410,
-    "y": 490,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_UrbanAreas": {
-    "x": 490,
-    "y": 490,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Substations": {
-    "x": 570,
-    "y": 490,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Teal": {
-    "x": 650,
-    "y": 490,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Avalanche": {
-    "x": 730,
-    "y": 490,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Yellow": {
-    "x": 10,
-    "y": 570,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_PrimaryRoads": {
-    "x": 90,
-    "y": 570,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_IndigenousCommunities": {
-    "x": 170,
-    "y": 570,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_GasandOilWellsArea": {
-    "x": 250,
-    "y": 570,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_WindTurbines": {
-    "x": 330,
-    "y": 570,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Grid-330kV": {
-    "x": 410,
-    "y": 570,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_UnexplodedOrdnance": {
-    "x": 490,
-    "y": 570,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Man-madeinfrastructure": {
-    "x": 570,
-    "y": 570,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Grid-25kV": {
-    "x": 650,
-    "y": 570,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_MarineProtection2": {
-    "x": 730,
-    "y": 570,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_NationalPark2": {
-    "x": 10,
-    "y": 650,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Salmon": {
-    "x": 90,
-    "y": 650,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_CommunicationTower": {
-    "x": 170,
-    "y": 650,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Aquaculture": {
-    "x": 250,
-    "y": 650,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_geyser": {
-    "x": 330,
-    "y": 650,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_BatteryStorage": {
-    "x": 410,
-    "y": 650,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Habitations": {
-    "x": 490,
-    "y": 650,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Grid-550kV": {
-    "x": 570,
-    "y": 650,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_HistoricAreas": {
-    "x": 650,
-    "y": 650,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Mining": {
-    "x": 730,
-    "y": 650,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_IndigenousCommunitie": {
-    "x": 10,
-    "y": 730,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
   "style_EducationalFacility": {
-    "x": 90,
-    "y": 730,
-    "width": 70,
-    "height": 70,
+    "x": 130,
+    "y": 130,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_White": {
-    "x": 170,
-    "y": 730,
-    "width": 70,
-    "height": 70,
+  "style_Embankment": {
+    "x": 190,
+    "y": 130,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_MarineProtection": {
+  "style_FerryLanes": {
     "x": 250,
-    "y": 730,
-    "width": 70,
-    "height": 70,
+    "y": 130,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Breakwater": {
-    "x": 330,
-    "y": 730,
-    "width": 70,
-    "height": 70,
+  "style_Flooding": {
+    "x": 310,
+    "y": 130,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Grid-99kV": {
-    "x": 410,
-    "y": 730,
-    "width": 70,
-    "height": 70,
+  "style_GasandOilPipelines": {
+    "x": 370,
+    "y": 130,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Ports": {
+  "style_GasandOilWellsArea": {
+    "x": 430,
+    "y": 130,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_geyser": {
     "x": 490,
-    "y": 730,
-    "width": 70,
-    "height": 70,
+    "y": 130,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_RenewableEnergyPowerStation": {
-    "x": 570,
-    "y": 730,
-    "width": 70,
-    "height": 70,
+  "style_Grassland": {
+    "x": 550,
+    "y": 130,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
   "style_Green": {
-    "x": 650,
-    "y": 730,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_SpeciesData": {
-    "x": 730,
-    "y": 730,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Grid-66kV": {
     "x": 10,
-    "y": 810,
-    "width": 70,
-    "height": 70,
+    "y": 190,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_CoralReefs": {
-    "x": 90,
-    "y": 810,
-    "width": 70,
-    "height": 70,
+  "style_Grey": {
+    "x": 70,
+    "y": 190,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Pipeline": {
-    "x": 170,
-    "y": 810,
-    "width": 70,
-    "height": 70,
+  "style_Grid-110kV": {
+    "x": 130,
+    "y": 190,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Blue": {
-    "x": 250,
-    "y": 810,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Grid-132kV": {
-    "x": 330,
-    "y": 810,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Grid-33kV": {
-    "x": 410,
-    "y": 810,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_NuclearHazard": {
-    "x": 490,
-    "y": 810,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_HeritageArea": {
-    "x": 570,
-    "y": 810,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Roads": {
-    "x": 650,
-    "y": 810,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Tourist": {
-    "x": 730,
-    "y": 810,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Orchard": {
-    "x": 10,
-    "y": 890,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
-  },
-  "style_Rose": {
-    "x": 90,
-    "y": 890,
-    "width": 70,
-    "height": 70,
-    "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
   "style_Grid-11kV": {
-    "x": 170,
-    "y": 890,
-    "width": 70,
-    "height": 70,
+    "x": 190,
+    "y": 190,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
+  },
+  "style_Grid-132kV": {
+    "x": 250,
+    "y": 190,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-19kV": {
+    "x": 310,
+    "y": 190,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-220kV": {
+    "x": 370,
+    "y": 190,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-22kV": {
+    "x": 430,
+    "y": 190,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-25kV": {
+    "x": 490,
+    "y": 190,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-275kV": {
+    "x": 550,
+    "y": 190,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-330kV": {
+    "x": 10,
+    "y": 250,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-33kV": {
+    "x": 70,
+    "y": 250,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-440kV": {
+    "x": 130,
+    "y": 250,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-44kV": {
+    "x": 190,
+    "y": 250,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-550kV": {
+    "x": 250,
+    "y": 250,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-66kV": {
+    "x": 310,
+    "y": 250,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-88kV": {
+    "x": 370,
+    "y": 250,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid-99kV": {
+    "x": 430,
+    "y": 250,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Grid": {
+    "x": 490,
+    "y": 250,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Habitations": {
+    "x": 550,
+    "y": 250,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_HealthcareFacility": {
+    "x": 10,
+    "y": 310,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Heliport": {
+    "x": 70,
+    "y": 310,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_HeritageArea": {
+    "x": 130,
+    "y": 310,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Highways": {
+    "x": 190,
+    "y": 310,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_HistoricAreas": {
+    "x": 250,
+    "y": 310,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_HotSpring": {
+    "x": 310,
+    "y": 310,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_HydropowerPlant": {
+    "x": 370,
+    "y": 310,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_IndigenousCommunitie": {
+    "x": 430,
+    "y": 310,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_IndigenousCommunities": {
+    "x": 490,
+    "y": 310,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Industrial": {
+    "x": 550,
+    "y": 310,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_InlandWater": {
+    "x": 10,
+    "y": 370,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_IUCN": {
+    "x": 70,
+    "y": 370,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Landfill": {
+    "x": 130,
+    "y": 370,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Landslide": {
+    "x": 190,
+    "y": 370,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Lime": {
+    "x": 250,
+    "y": 370,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Man-madeinfrastructure": {
+    "x": 310,
+    "y": 370,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_MarineProtection": {
+    "x": 370,
+    "y": 370,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_MarineProtection2": {
+    "x": 430,
+    "y": 370,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_MaritimeLines": {
+    "x": 490,
+    "y": 370,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_MaritimeLines2": {
+    "x": 550,
+    "y": 370,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Mast": {
+    "x": 10,
+    "y": 430,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Military": {
+    "x": 70,
+    "y": 430,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Mining": {
+    "x": 130,
+    "y": 430,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Mint": {
+    "x": 190,
+    "y": 430,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
   },
   "style_MountainPeak": {
     "x": 250,
-    "y": 890,
-    "width": 70,
-    "height": 70,
+    "y": 430,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Grid-275kV": {
-    "x": 330,
-    "y": 890,
-    "width": 70,
-    "height": 70,
+  "style_NationalPark": {
+    "x": 310,
+    "y": 430,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
+  },
+  "style_NationalPark2": {
+    "x": 370,
+    "y": 430,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_NaturalLandCover": {
+    "x": 430,
+    "y": 430,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_NonRenewableEnergyPowerStation": {
+    "x": 490,
+    "y": 430,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_NuclearHazard": {
+    "x": 550,
+    "y": 430,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_NuclearPowerPlant": {
+    "x": 10,
+    "y": 490,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Orange": {
+    "x": 70,
+    "y": 490,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Orchard": {
+    "x": 130,
+    "y": 490,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_PalaeontologicalSite": {
+    "x": 190,
+    "y": 490,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Pink": {
+    "x": 250,
+    "y": 490,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Pipeline": {
+    "x": 310,
+    "y": 490,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Ports": {
+    "x": 370,
+    "y": 490,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Powerstations": {
+    "x": 430,
+    "y": 490,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_PrimaryRoads": {
+    "x": 490,
+    "y": 490,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_ProtectedAreas": {
+    "x": 550,
+    "y": 490,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_ProtectedForest": {
+    "x": 10,
+    "y": 550,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Province": {
+    "x": 70,
+    "y": 550,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Railways": {
+    "x": 130,
+    "y": 550,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Red": {
+    "x": 190,
+    "y": 550,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Religiousbuildings": {
+    "x": 250,
+    "y": 550,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_RenewableEnergyPowerStation": {
+    "x": 310,
+    "y": 550,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Roads": {
+    "x": 370,
+    "y": 550,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Rose": {
+    "x": 430,
+    "y": 550,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Salmon": {
+    "x": 490,
+    "y": 550,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_SecondaryRoads": {
+    "x": 550,
+    "y": 550,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Settlements": {
+    "x": 10,
+    "y": 610,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_SolarPlant": {
+    "x": 70,
+    "y": 610,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_SpeciesData": {
+    "x": 130,
+    "y": 610,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Substations": {
+    "x": 190,
+    "y": 610,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Teal": {
+    "x": 250,
+    "y": 610,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Tourist": {
+    "x": 310,
+    "y": 610,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_TouristAccomodation": {
+    "x": 370,
+    "y": 610,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Towns": {
+    "x": 430,
+    "y": 610,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Tracks": {
+    "x": 490,
+    "y": 610,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Treesandvegetativecover": {
+    "x": 550,
+    "y": 610,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_UnexplodedOrdnance": {
+    "x": 10,
+    "y": 670,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_UrbanAreas": {
+    "x": 70,
+    "y": 670,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
   },
   "style_Violet": {
-    "x": 410,
-    "y": 890,
-    "width": 70,
-    "height": 70,
+    "x": 130,
+    "y": 670,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Grid-88kV": {
-    "x": 490,
-    "y": 890,
-    "width": 70,
-    "height": 70,
+  "style_Volcano": {
+    "x": 190,
+    "y": 670,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
   },
-  "style_Dam": {
-    "x": 570,
-    "y": 890,
-    "width": 70,
-    "height": 70,
+  "style_WeatherMonitoringStation": {
+    "x": 250,
+    "y": 670,
+    "width": 50,
+    "height": 50,
     "mask": false,
-    "anchorY": 35.0
+    "anchorY": 25.0
+  },
+  "style_White": {
+    "x": 310,
+    "y": 670,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_WindTurbines": {
+    "x": 370,
+    "y": 670,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
+  },
+  "style_Yellow": {
+    "x": 430,
+    "y": 670,
+    "width": 50,
+    "height": 50,
+    "mask": false,
+    "anchorY": 25.0
   }
 }
