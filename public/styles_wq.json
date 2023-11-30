@@ -1,4 +1,193 @@
 {
+  "beigeLine": {
+    "weight": 3.0,
+    "color": "#FCE9D0b2",
+    "opacity": 0.7,
+    "fillColor": "#FCE9D066",
+    "fillOpacity": 0.4
+  },
+  "beigePolygon": {
+    "weight": 3.0,
+    "color": "#FCE9D0b2",
+    "opacity": 0.7,
+    "fillColor": "#FCE9D066",
+    "fillOpacity": 0.4
+  },
+  "brightRedLine": {
+    "weight": 3.0,
+    "color": "#E8562Eb2",
+    "opacity": 0.7,
+    "fillColor": "#E8562E66",
+    "fillOpacity": 0.4
+  },
+  "brightRedPolygon": {
+    "weight": 3.0,
+    "color": "#E8562Eb2",
+    "opacity": 0.7,
+    "fillColor": "#E8562E66",
+    "fillOpacity": 0.4
+  },
+  "darkBlueLine": {
+    "weight": 3.0,
+    "color": "#055375b2",
+    "opacity": 0.7,
+    "fillColor": "#05537566",
+    "fillOpacity": 0.4
+  },
+  "darkBluePolygon": {
+    "weight": 3.0,
+    "color": "#055375b2",
+    "opacity": 0.7,
+    "fillColor": "#05537566",
+    "fillOpacity": 0.4
+  },
+  "darkRedLine": {
+    "weight": 3.0,
+    "color": "#CC3A2Fb2",
+    "opacity": 0.7,
+    "fillColor": "#CC3A2F66",
+    "fillOpacity": 0.4
+  },
+  "darkRedPolygon": {
+    "weight": 3.0,
+    "color": "#CC3A2Fb2",
+    "opacity": 0.7,
+    "fillColor": "#CC3A2F66",
+    "fillOpacity": 0.4
+  },
+  "default": {
+    "weight": 3.0,
+    "color": "#2ABAE2ea",
+    "opacity": 0.92,
+    "fillColor": "#2ABAE266",
+    "fillOpacity": 0.4
+  },
+  "greenLine": {
+    "weight": 3.0,
+    "color": "#4E8801b2",
+    "opacity": 0.7,
+    "fillColor": "#4E880166",
+    "fillOpacity": 0.4
+  },
+  "greenPolygon": {
+    "weight": 3.0,
+    "color": "#4E8801b2",
+    "opacity": 0.7,
+    "fillColor": "#4E880166",
+    "fillOpacity": 0.4
+  },
+  "lightBlueLine": {
+    "weight": 3.0,
+    "color": "#BAE5DFb2",
+    "opacity": 0.7,
+    "fillColor": "#BAE5DF66",
+    "fillOpacity": 0.4
+  },
+  "lightBluePolygon": {
+    "weight": 3.0,
+    "color": "#BAE5DFb2",
+    "opacity": 0.7,
+    "fillColor": "#BAE5DF66",
+    "fillOpacity": 0.4
+  },
+  "lightGreenLine": {
+    "weight": 3.0,
+    "color": "#A3B214b2",
+    "opacity": 0.7,
+    "fillColor": "#A3B21466",
+    "fillOpacity": 0.4
+  },
+  "lightGreenPolygon": {
+    "weight": 5.000000001,
+    "color": "#A3B214b2",
+    "opacity": 0.7,
+    "fillColor": "#A3B21466",
+    "fillOpacity": 0.4
+  },
+  "maroonLine": {
+    "weight": 3.0,
+    "color": "#962C2Cb2",
+    "opacity": 0.7,
+    "fillColor": "#962C2C66",
+    "fillOpacity": 0.4
+  },
+  "maroonPolygon": {
+    "weight": 3.0,
+    "color": "#962C2Cb2",
+    "opacity": 0.7,
+    "fillColor": "#962C2C66",
+    "fillOpacity": 0.4
+  },
+  "mySemiTransparentBackgroundStyle": {
+    "weight": 3.0,
+    "color": "#2ABAE2b2",
+    "opacity": 0.7,
+    "fillColor": "#2ABAE266",
+    "fillOpacity": 0.4
+  },
+  "pinkLine": {
+    "weight": 3.0,
+    "color": "#FFC9C7b2",
+    "opacity": 0.7,
+    "fillColor": "#FFC9C766",
+    "fillOpacity": 0.4
+  },
+  "pinkPolygon": {
+    "weight": 2.000000001,
+    "color": "#FFC9C7b2",
+    "opacity": 0.7,
+    "fillColor": "#FFC9C766",
+    "fillOpacity": 0.4
+  },
+  "redLine": {
+    "weight": 3.0,
+    "color": "#CC3A2Fb2",
+    "opacity": 0.7,
+    "fillColor": "#CC3A2F66",
+    "fillOpacity": 0.4
+  },
+  "redPolygon": {
+    "weight": 3.0,
+    "color": "#CC3A2Fb2",
+    "opacity": 0.7,
+    "fillColor": "#CC3A2F66",
+    "fillOpacity": 0.4
+  },
+  "salmonLine": {
+    "weight": 3.0,
+    "color": "#FF9A80b2",
+    "opacity": 0.7,
+    "fillColor": "#FF9A8066",
+    "fillOpacity": 0.4
+  },
+  "salmonPolygon": {
+    "weight": 3.0,
+    "color": "#FF9A80b2",
+    "opacity": 0.7,
+    "fillColor": "#FF9A8066",
+    "fillOpacity": 0.4
+  },
+  "sitingEllipseLine": {
+    "weight": 3.0,
+    "color": "#BAE5DFff",
+    "opacity": 1.0,
+    "fillColor": "#BAE5DF66",
+    "fillOpacity": 0.4
+  },
+  "skyBlueLine": {
+    "weight": 3.0,
+    "color": "#6EBCC4b2",
+    "opacity": 0.7,
+    "fillColor": "#6EBCC466",
+    "fillOpacity": 0.4
+  },
+  "skyBluePolygon": {
+    "weight": 3.0,
+    "color": "#6EBCC4b2",
+    "opacity": 0.7,
+    "fillColor": "#6EBCC466",
+    "fillOpacity": 0.4
+  },
   "style_Airports": {
     "weight": 3.0,
     "color": "#CCCBCAff",
@@ -809,6 +998,62 @@
     "color": "#FFFFFFff",
     "opacity": 1.0,
     "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "tealLine": {
+    "weight": 3.0,
+    "color": "#1D9696b2",
+    "opacity": 0.7,
+    "fillColor": "#1D969666",
+    "fillOpacity": 0.4
+  },
+  "tealPolygon": {
+    "weight": 2.000000001,
+    "color": "#1D9696b2",
+    "opacity": 0.7,
+    "fillColor": "#1D969666",
+    "fillOpacity": 0.4
+  },
+  "typeDefaults": {
+    "weight": 3.0,
+    "color": "#2ABAE2b2",
+    "opacity": 0.7,
+    "fillColor": "#2ABAE266",
+    "fillOpacity": 0.4
+  },
+  "whiteLine": {
+    "weight": 3.0,
+    "color": "#FFFFFFb2",
+    "opacity": 0.7,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "whitePolygon": {
+    "weight": 5.000000001,
+    "color": "#FFFFFFb2",
+    "opacity": 0.7,
+    "fillColor": "#FFFFFF66",
+    "fillOpacity": 0.4
+  },
+  "wpBrandingStyle": {
+    "weight": 3.0,
+    "color": "#361754b2",
+    "opacity": 0.7,
+    "fillColor": "#36175466",
+    "fillOpacity": 0.4
+  },
+  "yellowLine": {
+    "weight": 3.0,
+    "color": "#F3D94Eb2",
+    "opacity": 0.7,
+    "fillColor": "#F3D94E66",
+    "fillOpacity": 0.4
+  },
+  "yellowPolygon": {
+    "weight": 3.0,
+    "color": "#F3D94Eb2",
+    "opacity": 0.7,
+    "fillColor": "#F3D94E66",
     "fillOpacity": 0.4
   }
 }
