@@ -27,13 +27,13 @@ STYLE_SCHEMA = {
         "icon_name": {"type": "string"},
         "icon_size": {"type": "number"},
         "icon_color": {"type": "hexColor"},
-        "icon_transparency": {"type": "number"},
+        "icon_opacity": {"type": "number"},
         "label_size": {"type": "number"},
         "line_color": {"type": "hexColor"},
         "line_width": {"type": "number"},
-        "line_transparency": {"type": "number"},
+        "line_opacity": {"type": "number"},
         "area_color": {"type": "hexColor"},
-        "area_transparency": {"type": "number"},
+        "area_opacity": {"type": "number"},
     },
 }
 
@@ -72,6 +72,20 @@ def generate_styles(style_rows):
     return styles
 
 
+def transform_styles_for_windquest(styles):
+    wq_styles = {}
+    for key, value in styles.items():
+        wq_styles[key] = {
+            "color": value["line_color"],  # Gets applied to paths as stroke-color
+            "weight": value["line_width"] * 3,  # Gets applied to paths as stroke-width. WQ medium line weight is 3
+            "opacity": value["line_transparency"] / 100,  # Gets applied to paths as stroke-opacity
+            "fillColor": value["area_color"],  # Gets applied to paths as fill-color
+            "fillOpacity": value["area_transparency"] / 100,  # Gets applied to paths as fill-opacity
+        }
+
+    return wq_styles
+
+
 def write_styles_json(styles, output_file):
     with open(output_file, "w") as fo:
         json.dump(styles, fo, indent=2)
@@ -98,8 +112,11 @@ def main():
                 style_rows.append(generate_style(row, headers))
 
         styles = generate_styles(style_rows)
-
         output_path = os.path.join(REPOSITORY_ROOT_FOLDER, "public", "styles.json")
+        write_styles_json(styles, output_path)
+
+        styles = transform_styles_for_windquest(styles)
+        output_path = os.path.join(REPOSITORY_ROOT_FOLDER, "public", "styles_wq.json")
         write_styles_json(styles, output_path)
 
 

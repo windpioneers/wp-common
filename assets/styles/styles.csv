@@ -1,4 +1,4 @@
-style_name,icon_name,icon_size,icon_color,icon_transparency,label_size,line_color,line_width,line_transparency,area_color,area_transparency
+style_name,icon_name,icon_size,icon_color,icon_opacity,label_size,line_color,line_width,line_opacity,area_color,area_opacity
 style_Boundary,style_Boundary,0.6,FFFFFF,0.8,0,FFFFFF,1,100,FFFFFF,40
 style_Province,style_Province,0.6,FFFFFF,0.8,0,FFFFFF,1,100,FFFFFF,40
 style_Buildings,style_Buildings,0.6,FFCCE6,0.8,0,E6CCFF,1,100,E6CCFF,40
