@@ -9,7 +9,7 @@
     "label_opacity": 0.0,
     "line_color": "#FCE9D0",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#FCE9D0",
     "area_opacity": 40.0
   },
@@ -23,7 +23,7 @@
     "label_opacity": 0.0,
     "line_color": "#FCE9D0",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#FCE9D0",
     "area_opacity": 40.0
   },
@@ -37,7 +37,7 @@
     "label_opacity": 0.0,
     "line_color": "#E8562E",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#E8562E",
     "area_opacity": 40.0
   },
@@ -51,7 +51,7 @@
     "label_opacity": 0.0,
     "line_color": "#E8562E",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#E8562E",
     "area_opacity": 40.0
   },
@@ -65,7 +65,7 @@
     "label_opacity": 0.0,
     "line_color": "#055375",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#055375",
     "area_opacity": 40.0
   },
@@ -79,7 +79,7 @@
     "label_opacity": 0.0,
     "line_color": "#055375",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#055375",
     "area_opacity": 40.0
   },
@@ -93,7 +93,7 @@
     "label_opacity": 0.0,
     "line_color": "#CC3A2F",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#CC3A2F",
     "area_opacity": 40.0
   },
@@ -107,7 +107,7 @@
     "label_opacity": 0.0,
     "line_color": "#CC3A2F",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#CC3A2F",
     "area_opacity": 40.0
   },
@@ -121,7 +121,7 @@
     "label_opacity": 0.0,
     "line_color": "#2ABAE2",
     "line_width": 1.0,
-    "line_opacity": 92.0,
+    "line_opacity": 100.0,
     "area_color": "#2ABAE2",
     "area_opacity": 40.0
   },
@@ -135,7 +135,7 @@
     "label_opacity": 0.0,
     "line_color": "#4E8801",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#4E8801",
     "area_opacity": 40.0
   },
@@ -149,8 +149,22 @@
     "label_opacity": 0.0,
     "line_color": "#4E8801",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#4E8801",
+    "area_opacity": 40.0
+  },
+  "lidarIcon": {
+    "style_name": "lidarIcon",
+    "icon_name": "lidarIcon",
+    "icon_size": 0.6,
+    "icon_color": "#FFFFFF",
+    "icon_opacity": 0.8,
+    "label_size": 0.0,
+    "label_opacity": 1.0,
+    "line_color": "#FFFFFF",
+    "line_width": 1.0,
+    "line_opacity": 100.0,
+    "area_color": "#FFFFFF",
     "area_opacity": 40.0
   },
   "lightBlueLine": {
@@ -163,7 +177,7 @@
     "label_opacity": 0.0,
     "line_color": "#BAE5DF",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#BAE5DF",
     "area_opacity": 40.0
   },
@@ -177,7 +191,7 @@
     "label_opacity": 0.0,
     "line_color": "#BAE5DF",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#BAE5DF",
     "area_opacity": 40.0
   },
@@ -191,7 +205,7 @@
     "label_opacity": 0.0,
     "line_color": "#A3B214",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#A3B214",
     "area_opacity": 40.0
   },
@@ -205,7 +219,7 @@
     "label_opacity": 0.0,
     "line_color": "#A3B214",
     "line_width": 1.666666667,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#A3B214",
     "area_opacity": 40.0
   },
@@ -219,7 +233,7 @@
     "label_opacity": 0.0,
     "line_color": "#962C2C",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#962C2C",
     "area_opacity": 40.0
   },
@@ -233,7 +247,7 @@
     "label_opacity": 0.0,
     "line_color": "#962C2C",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#962C2C",
     "area_opacity": 40.0
   },
@@ -247,9 +261,23 @@
     "label_opacity": 0.0,
     "line_color": "#2ABAE2",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#2ABAE2",
     "area_opacity": 40.0
+  },
+  "onlyLabelIcon": {
+    "style_name": "onlyLabelIcon",
+    "icon_name": "location",
+    "icon_size": 0.6,
+    "icon_color": "#FFFFFF",
+    "icon_opacity": 0.0,
+    "label_size": 0.0,
+    "label_opacity": 1.0,
+    "line_color": "#FFFFFF",
+    "line_width": 1.0,
+    "line_opacity": 0.0,
+    "area_color": "#FFFFFF",
+    "area_opacity": 0.0
   },
   "pinkLine": {
     "style_name": "pinkLine",
@@ -261,7 +289,7 @@
     "label_opacity": 0.0,
     "line_color": "#FFC9C7",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#FFC9C7",
     "area_opacity": 40.0
   },
@@ -275,7 +303,7 @@
     "label_opacity": 0.0,
     "line_color": "#FFC9C7",
     "line_width": 0.666666667,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#FFC9C7",
     "area_opacity": 40.0
   },
@@ -289,7 +317,7 @@
     "label_opacity": 0.0,
     "line_color": "#CC3A2F",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#CC3A2F",
     "area_opacity": 40.0
   },
@@ -303,7 +331,7 @@
     "label_opacity": 0.0,
     "line_color": "#CC3A2F",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#CC3A2F",
     "area_opacity": 40.0
   },
@@ -317,7 +345,7 @@
     "label_opacity": 0.0,
     "line_color": "#FF9A80",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#FF9A80",
     "area_opacity": 40.0
   },
@@ -331,7 +359,7 @@
     "label_opacity": 0.0,
     "line_color": "#FF9A80",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#FF9A80",
     "area_opacity": 40.0
   },
@@ -359,7 +387,7 @@
     "label_opacity": 0.0,
     "line_color": "#6EBCC4",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#6EBCC4",
     "area_opacity": 40.0
   },
@@ -373,7 +401,7 @@
     "label_opacity": 0.0,
     "line_color": "#6EBCC4",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#6EBCC4",
     "area_opacity": 40.0
   },
@@ -385,10 +413,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCCBCA",
+    "line_color": "#CACBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCCBCA",
+    "area_color": "#CACBCC",
     "area_opacity": 40.0
   },
   "style_Amber": {
@@ -399,10 +427,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#83B5FF",
+    "line_color": "#FFB583",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#83B5FF",
+    "area_color": "#FFB583",
     "area_opacity": 40.0
   },
   "style_AnimalKeeping": {
@@ -497,10 +525,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#DBD59C",
+    "line_color": "#9CD5DB",
     "line_width": 0.5,
     "line_opacity": 100.0,
-    "area_color": "#DBD59C",
+    "area_color": "#9CD5DB",
     "area_opacity": 40.0
   },
   "style_Boundary": {
@@ -553,10 +581,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_BuiltUpAreas": {
@@ -567,10 +595,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_Cemetery": {
@@ -581,10 +609,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_CommunicationTower": {
@@ -609,10 +637,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCDB9C",
+    "line_color": "#9CDBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCDB9C",
+    "area_color": "#9CDBCC",
     "area_opacity": 40.0
   },
   "style_Creamery": {
@@ -623,10 +651,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_Dam": {
@@ -651,10 +679,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#7679DE",
+    "line_color": "#DE7976",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#7679DE",
+    "area_color": "#DE7976",
     "area_opacity": 40.0
   },
   "style_Dock": {
@@ -721,10 +749,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCDB9C",
+    "line_color": "#9CDBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCDB9C",
+    "area_color": "#9CDBCC",
     "area_opacity": 40.0
   },
   "style_Flooding": {
@@ -749,10 +777,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCDB9C",
+    "line_color": "#9CDBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCDB9C",
+    "area_color": "#9CDBCC",
     "area_opacity": 40.0
   },
   "style_GasandOilWellsArea": {
@@ -763,10 +791,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCDB9C",
+    "line_color": "#9CDBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCDB9C",
+    "area_color": "#9CDBCC",
     "area_opacity": 40.0
   },
   "style_Grassland": {
@@ -805,10 +833,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCCBCA",
+    "line_color": "#CACBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCCBCA",
+    "area_color": "#CACBCC",
     "area_opacity": 40.0
   },
   "style_Grid": {
@@ -819,10 +847,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#DE7BEF",
+    "line_color": "#EF7BDE",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#DE7BEF",
+    "area_color": "#EF7BDE",
     "area_opacity": 40.0
   },
   "style_Grid-110kV": {
@@ -833,10 +861,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#DE7BEF",
+    "line_color": "#EF7BDE",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#DE7BEF",
+    "area_color": "#EF7BDE",
     "area_opacity": 40.0
   },
   "style_Grid-11kV": {
@@ -847,10 +875,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_Grid-132kV": {
@@ -889,10 +917,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#66E5FF",
+    "line_color": "#FFE566",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#66E5FF",
+    "area_color": "#FFE566",
     "area_opacity": 40.0
   },
   "style_Grid-22kV": {
@@ -903,10 +931,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#83B5FF",
+    "line_color": "#FFB583",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#83B5FF",
+    "area_color": "#FFB583",
     "area_opacity": 40.0
   },
   "style_Grid-25kV": {
@@ -917,10 +945,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#7DF9ED",
+    "line_color": "#EDF97D",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#7DF9ED",
+    "area_color": "#EDF97D",
     "area_opacity": 40.0
   },
   "style_Grid-275kV": {
@@ -931,10 +959,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#FCCADA",
+    "line_color": "#DACAFC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#FCCADA",
+    "area_color": "#DACAFC",
     "area_opacity": 40.0
   },
   "style_Grid-330kV": {
@@ -945,10 +973,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_Grid-33kV": {
@@ -959,10 +987,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCCBCA",
+    "line_color": "#CACBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCCBCA",
+    "area_color": "#CACBCC",
     "area_opacity": 40.0
   },
   "style_Grid-440kV": {
@@ -973,10 +1001,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#9FEDCC",
+    "line_color": "#CCED9F",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#9FEDCC",
+    "area_color": "#CCED9F",
     "area_opacity": 40.0
   },
   "style_Grid-44kV": {
@@ -987,10 +1015,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCDB9C",
+    "line_color": "#9CDBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCDB9C",
+    "area_color": "#9CDBCC",
     "area_opacity": 40.0
   },
   "style_Grid-550kV": {
@@ -1001,10 +1029,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#7B97FF",
+    "line_color": "#FF977B",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#7B97FF",
+    "area_color": "#FF977B",
     "area_opacity": 40.0
   },
   "style_Grid-66kV": {
@@ -1015,10 +1043,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#DBD59C",
+    "line_color": "#9CD5DB",
     "line_width": 0.5,
     "line_opacity": 100.0,
-    "area_color": "#DBD59C",
+    "area_color": "#9CD5DB",
     "area_opacity": 40.0
   },
   "style_Grid-88kV": {
@@ -1029,10 +1057,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#7679DE",
+    "line_color": "#DE7976",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#7679DE",
+    "area_color": "#DE7976",
     "area_opacity": 40.0
   },
   "style_Habitations": {
@@ -1043,10 +1071,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_Harbour": {
@@ -1099,10 +1127,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#83B5FF",
+    "line_color": "#FFB583",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#83B5FF",
+    "area_color": "#FFB583",
     "area_opacity": 40.0
   },
   "style_Highways": {
@@ -1113,10 +1141,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#66E5FF",
+    "line_color": "#FFE566",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#66E5FF",
+    "area_color": "#FFE566",
     "area_opacity": 40.0
   },
   "style_HistoricAreas": {
@@ -1127,10 +1155,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_HydropowerPlant": {
@@ -1155,10 +1183,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#9FEDCC",
+    "line_color": "#CCED9F",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#9FEDCC",
+    "area_color": "#CCED9F",
     "area_opacity": 40.0
   },
   "style_IndigenousCommunities": {
@@ -1169,10 +1197,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#7B97FF",
+    "line_color": "#FF977B",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#7B97FF",
+    "area_color": "#FF977B",
     "area_opacity": 40.0
   },
   "style_Industrial": {
@@ -1183,10 +1211,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_InlandWater": {
@@ -1197,10 +1225,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#DBD59C",
+    "line_color": "#9CD5DB",
     "line_width": 0.5,
     "line_opacity": 100.0,
-    "area_color": "#DBD59C",
+    "area_color": "#9CD5DB",
     "area_opacity": 40.0
   },
   "style_Landfill": {
@@ -1239,10 +1267,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#7DF9ED",
+    "line_color": "#EDF97D",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#7DF9ED",
+    "area_color": "#EDF97D",
     "area_opacity": 40.0
   },
   "style_Man-madeinfrastructure": {
@@ -1253,10 +1281,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_MarineProtection": {
@@ -1267,10 +1295,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCDB9C",
+    "line_color": "#9CDBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCDB9C",
+    "area_color": "#9CDBCC",
     "area_opacity": 40.0
   },
   "style_MaritimeLines": {
@@ -1281,10 +1309,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCDB9C",
+    "line_color": "#9CDBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCDB9C",
+    "area_color": "#9CDBCC",
     "area_opacity": 40.0
   },
   "style_Mast": {
@@ -1309,10 +1337,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_Mining": {
@@ -1337,10 +1365,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#9FEDCC",
+    "line_color": "#CCED9F",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#9FEDCC",
+    "area_color": "#CCED9F",
     "area_opacity": 40.0
   },
   "style_MountainPeak": {
@@ -1365,10 +1393,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#9FEDCC",
+    "line_color": "#CCED9F",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#9FEDCC",
+    "area_color": "#CCED9F",
     "area_opacity": 40.0
   },
   "style_NaturalLandCover": {
@@ -1393,10 +1421,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#7DF9ED",
+    "line_color": "#EDF97D",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#7DF9ED",
+    "area_color": "#EDF97D",
     "area_opacity": 40.0
   },
   "style_NuclearHazard": {
@@ -1449,10 +1477,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#7B97FF",
+    "line_color": "#FF977B",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#7B97FF",
+    "area_color": "#FF977B",
     "area_opacity": 40.0
   },
   "style_Orchard": {
@@ -1491,10 +1519,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#DE7BEF",
+    "line_color": "#EF7BDE",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#DE7BEF",
+    "area_color": "#EF7BDE",
     "area_opacity": 40.0
   },
   "style_Pipeline": {
@@ -1519,10 +1547,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCCBCA",
+    "line_color": "#CACBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCCBCA",
+    "area_color": "#CACBCC",
     "area_opacity": 40.0
   },
   "style_Powerstations": {
@@ -1533,10 +1561,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#7DF9ED",
+    "line_color": "#EDF97D",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#7DF9ED",
+    "area_color": "#EDF97D",
     "area_opacity": 40.0
   },
   "style_PrimaryRoads": {
@@ -1547,10 +1575,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#66E5FF",
+    "line_color": "#FFE566",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#66E5FF",
+    "area_color": "#FFE566",
     "area_opacity": 40.0
   },
   "style_ProtectedAreas": {
@@ -1561,10 +1589,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#9FEDCC",
+    "line_color": "#CCED9F",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#9FEDCC",
+    "area_color": "#CCED9F",
     "area_opacity": 40.0
   },
   "style_ProtectedForest": {
@@ -1575,10 +1603,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#9FEDCC",
+    "line_color": "#CCED9F",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#9FEDCC",
+    "area_color": "#CCED9F",
     "area_opacity": 40.0
   },
   "style_Province": {
@@ -1617,10 +1645,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCCBCA",
+    "line_color": "#CACBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCCBCA",
+    "area_color": "#CACBCC",
     "area_opacity": 40.0
   },
   "style_Red": {
@@ -1631,10 +1659,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#7679DE",
+    "line_color": "#DE7976",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#7679DE",
+    "area_color": "#DE7976",
     "area_opacity": 40.0
   },
   "style_ReligiousBuildings": {
@@ -1645,10 +1673,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#83B5FF",
+    "line_color": "#FFB583",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#83B5FF",
+    "area_color": "#FFB583",
     "area_opacity": 40.0
   },
   "style_RenewableEnergyPowerStation": {
@@ -1659,10 +1687,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#7DF9ED",
+    "line_color": "#EDF97D",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#7DF9ED",
+    "area_color": "#EDF97D",
     "area_opacity": 40.0
   },
   "style_Roads": {
@@ -1673,10 +1701,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#66E5FF",
+    "line_color": "#FFE566",
     "line_width": 0.5,
     "line_opacity": 100.0,
-    "area_color": "#66E5FF",
+    "area_color": "#FFE566",
     "area_opacity": 40.0
   },
   "style_Rose": {
@@ -1687,10 +1715,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_SEZ": {
@@ -1715,10 +1743,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_SecondaryRoads": {
@@ -1729,10 +1757,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#66E5FF",
+    "line_color": "#FFE566",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#66E5FF",
+    "area_color": "#FFE566",
     "area_opacity": 40.0
   },
   "style_Settlements": {
@@ -1743,10 +1771,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_SolarPlant": {
@@ -1771,10 +1799,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#FCCADA",
+    "line_color": "#DACAFC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#FCCADA",
+    "area_color": "#DACAFC",
     "area_opacity": 40.0
   },
   "style_Substations": {
@@ -1785,10 +1813,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#7DF9ED",
+    "line_color": "#EDF97D",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#7DF9ED",
+    "area_color": "#EDF97D",
     "area_opacity": 40.0
   },
   "style_Teal": {
@@ -1799,10 +1827,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#CCDB9C",
+    "line_color": "#9CDBCC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#CCDB9C",
+    "area_color": "#9CDBCC",
     "area_opacity": 40.0
   },
   "style_Tourist": {
@@ -1813,10 +1841,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#83B5FF",
+    "line_color": "#FFB583",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#83B5FF",
+    "area_color": "#FFB583",
     "area_opacity": 40.0
   },
   "style_TouristAccomodation": {
@@ -1841,10 +1869,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_Tracks": {
@@ -1855,10 +1883,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#66E5FF",
+    "line_color": "#FFE566",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#66E5FF",
+    "area_color": "#FFE566",
     "area_opacity": 40.0
   },
   "style_Treesandvegetativecover": {
@@ -1897,10 +1925,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#E6CCFF",
+    "line_color": "#FFCCE6",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#E6CCFF",
+    "area_color": "#FFCCE6",
     "area_opacity": 40.0
   },
   "style_Violet": {
@@ -1911,10 +1939,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#FCCADA",
+    "line_color": "#DACAFC",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#FCCADA",
+    "area_color": "#DACAFC",
     "area_opacity": 40.0
   },
   "style_Volcano": {
@@ -1981,10 +2009,10 @@
     "icon_opacity": 0.8,
     "label_size": 0.0,
     "label_opacity": 0.0,
-    "line_color": "#66E5FF",
+    "line_color": "#FFE566",
     "line_width": 1.0,
     "line_opacity": 100.0,
-    "area_color": "#66E5FF",
+    "area_color": "#FFE566",
     "area_opacity": 40.0
   },
   "style_geyser": {
@@ -2011,7 +2039,7 @@
     "label_opacity": 0.0,
     "line_color": "#1D9696",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#1D9696",
     "area_opacity": 40.0
   },
@@ -2025,7 +2053,7 @@
     "label_opacity": 0.0,
     "line_color": "#1D9696",
     "line_width": 0.666666667,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#1D9696",
     "area_opacity": 40.0
   },
@@ -2039,7 +2067,7 @@
     "label_opacity": 0.0,
     "line_color": "#2ABAE2",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#2ABAE2",
     "area_opacity": 40.0
   },
@@ -2053,7 +2081,7 @@
     "label_opacity": 0.0,
     "line_color": "#FFFFFF",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#FFFFFF",
     "area_opacity": 40.0
   },
@@ -2067,7 +2095,7 @@
     "label_opacity": 0.0,
     "line_color": "#FFFFFF",
     "line_width": 1.666666667,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#FFFFFF",
     "area_opacity": 40.0
   },
@@ -2081,7 +2109,7 @@
     "label_opacity": 0.0,
     "line_color": "#361754",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#361754",
     "area_opacity": 40.0
   },
@@ -2095,7 +2123,7 @@
     "label_opacity": 0.0,
     "line_color": "#F3D94E",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#F3D94E",
     "area_opacity": 40.0
   },
@@ -2109,7 +2137,7 @@
     "label_opacity": 0.0,
     "line_color": "#F3D94E",
     "line_width": 1.0,
-    "line_opacity": 70.0,
+    "line_opacity": 100.0,
     "area_color": "#F3D94E",
     "area_opacity": 40.0
   }

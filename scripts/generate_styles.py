@@ -108,7 +108,7 @@ def transform_styles_for_windquest(styles):
         fill_color_rgba = convert_hex_to_rgba(fill_color)
 
         wq_styles[key] = {
-            "weight": value["line_width"] * 3,  # Gets applied to paths as stroke-width. WQ medium line weight is 3
+            "weight": value["line_width"],  # Gets applied to paths as stroke-width. WQ medium line weight is 3
             "color": color,  # Gets applied to paths as stroke-color
             "colorRGBA": color_rgba,
             "opacity": opacity,  # Gets applied to paths as stroke-opacity
@@ -117,6 +117,8 @@ def transform_styles_for_windquest(styles):
             "fillOpacity": fill_opacity,  # Gets applied to paths as fill-opacity
             "labelSize": value["label_size"],
             "labelOpacity": value["label_opacity"],
+            "iconOpacity": value["icon_opacity"] / 100,
+            "iconSize": value["icon_size"],
         }
 
     return wq_styles
