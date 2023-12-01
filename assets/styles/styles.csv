@@ -1,5 +1,5 @@
 style_name,icon_name,icon_size,icon_color,icon_opacity,label_size,label_opacity,line_color,line_width,line_opacity,area_color,area_opacity
-onlyLabel,location,0.6,#FFFFFF,0,0,1,#FFFFFF,1,0,#FFFFFF,0
+onlyLabel,location,0.6,#FFFFFF,0,1,1,#FFFFFF,1,0,#FFFFFF,0
 lidarIcon,lidarIcon,0.6,#FFFFFF,0.8,0,1,#FFFFFF,1,100,#FFFFFF,40
 wpBrandingStyle,wpBrandingStyle,0.6,#FFFFFF,0.8,0,0,#361754,1,100,#361754,40
 mySemiTransparentBackgroundStyle,mySemiTransparentBackgroundStyle,0.6,#FFFFFF,0.8,0,0,#2abae2,1,100,#2abae2,40

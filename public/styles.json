@@ -265,13 +265,13 @@
     "area_color": "#2ABAE2",
     "area_opacity": 40.0
   },
-  "onlyLabelIcon": {
-    "style_name": "onlyLabelIcon",
+  "onlyLabel": {
+    "style_name": "onlyLabel",
     "icon_name": "location",
     "icon_size": 0.6,
     "icon_color": "#FFFFFF",
     "icon_opacity": 0.0,
-    "label_size": 0.0,
+    "label_size": 1.0,
     "label_opacity": 1.0,
     "line_color": "#FFFFFF",
     "line_width": 1.0,

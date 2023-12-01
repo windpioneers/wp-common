@@ -246,7 +246,7 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
-  "onlyLabelIcon": {
+  "onlyLabel": {
     "weight": 1.0,
     "color": "#FFFFFF00",
     "colorRGBA": [255, 255, 255, 0],
@@ -254,7 +254,7 @@
     "fillColor": "#FFFFFF00",
     "fillColorRGBA": [255, 255, 255, 0],
     "fillOpacity": 0.0,
-    "labelSize": 0.0,
+    "labelSize": 1.0,
     "labelOpacity": 1.0,
     "iconOpacity": 0.0,
     "iconSize": 0.6
