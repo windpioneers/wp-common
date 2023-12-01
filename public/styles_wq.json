@@ -4,7 +4,8 @@
     "color": "#FCE9D0B2",
     "colorRGBA": [252, 233, 208, 178],
     "opacity": 0.7,
-    "fillColor": [252, 233, 208, 102],
+    "fillColor": "#FCE9D066",
+    "fillColorRGBA": [252, 233, 208, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -14,7 +15,8 @@
     "color": "#FCE9D0B2",
     "colorRGBA": [252, 233, 208, 178],
     "opacity": 0.7,
-    "fillColor": [252, 233, 208, 102],
+    "fillColor": "#FCE9D066",
+    "fillColorRGBA": [252, 233, 208, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -24,7 +26,8 @@
     "color": "#E8562EB2",
     "colorRGBA": [232, 86, 46, 178],
     "opacity": 0.7,
-    "fillColor": [232, 86, 46, 102],
+    "fillColor": "#E8562E66",
+    "fillColorRGBA": [232, 86, 46, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -34,7 +37,8 @@
     "color": "#E8562EB2",
     "colorRGBA": [232, 86, 46, 178],
     "opacity": 0.7,
-    "fillColor": [232, 86, 46, 102],
+    "fillColor": "#E8562E66",
+    "fillColorRGBA": [232, 86, 46, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -44,7 +48,8 @@
     "color": "#055375B2",
     "colorRGBA": [5, 83, 117, 178],
     "opacity": 0.7,
-    "fillColor": [5, 83, 117, 102],
+    "fillColor": "#05537566",
+    "fillColorRGBA": [5, 83, 117, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -54,7 +59,8 @@
     "color": "#055375B2",
     "colorRGBA": [5, 83, 117, 178],
     "opacity": 0.7,
-    "fillColor": [5, 83, 117, 102],
+    "fillColor": "#05537566",
+    "fillColorRGBA": [5, 83, 117, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -64,7 +70,8 @@
     "color": "#CC3A2FB2",
     "colorRGBA": [204, 58, 47, 178],
     "opacity": 0.7,
-    "fillColor": [204, 58, 47, 102],
+    "fillColor": "#CC3A2F66",
+    "fillColorRGBA": [204, 58, 47, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -74,7 +81,8 @@
     "color": "#CC3A2FB2",
     "colorRGBA": [204, 58, 47, 178],
     "opacity": 0.7,
-    "fillColor": [204, 58, 47, 102],
+    "fillColor": "#CC3A2F66",
+    "fillColorRGBA": [204, 58, 47, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -84,7 +92,8 @@
     "color": "#2ABAE2EA",
     "colorRGBA": [42, 186, 226, 234],
     "opacity": 0.92,
-    "fillColor": [42, 186, 226, 102],
+    "fillColor": "#2ABAE266",
+    "fillColorRGBA": [42, 186, 226, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -94,7 +103,8 @@
     "color": "#4E8801B2",
     "colorRGBA": [78, 136, 1, 178],
     "opacity": 0.7,
-    "fillColor": [78, 136, 1, 102],
+    "fillColor": "#4E880166",
+    "fillColorRGBA": [78, 136, 1, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -104,7 +114,8 @@
     "color": "#4E8801B2",
     "colorRGBA": [78, 136, 1, 178],
     "opacity": 0.7,
-    "fillColor": [78, 136, 1, 102],
+    "fillColor": "#4E880166",
+    "fillColorRGBA": [78, 136, 1, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -114,7 +125,8 @@
     "color": "#BAE5DFB2",
     "colorRGBA": [186, 229, 223, 178],
     "opacity": 0.7,
-    "fillColor": [186, 229, 223, 102],
+    "fillColor": "#BAE5DF66",
+    "fillColorRGBA": [186, 229, 223, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -124,7 +136,8 @@
     "color": "#BAE5DFB2",
     "colorRGBA": [186, 229, 223, 178],
     "opacity": 0.7,
-    "fillColor": [186, 229, 223, 102],
+    "fillColor": "#BAE5DF66",
+    "fillColorRGBA": [186, 229, 223, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -134,7 +147,8 @@
     "color": "#A3B214B2",
     "colorRGBA": [163, 178, 20, 178],
     "opacity": 0.7,
-    "fillColor": [163, 178, 20, 102],
+    "fillColor": "#A3B21466",
+    "fillColorRGBA": [163, 178, 20, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -144,7 +158,8 @@
     "color": "#A3B214B2",
     "colorRGBA": [163, 178, 20, 178],
     "opacity": 0.7,
-    "fillColor": [163, 178, 20, 102],
+    "fillColor": "#A3B21466",
+    "fillColorRGBA": [163, 178, 20, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -154,7 +169,8 @@
     "color": "#962C2CB2",
     "colorRGBA": [150, 44, 44, 178],
     "opacity": 0.7,
-    "fillColor": [150, 44, 44, 102],
+    "fillColor": "#962C2C66",
+    "fillColorRGBA": [150, 44, 44, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -164,7 +180,8 @@
     "color": "#962C2CB2",
     "colorRGBA": [150, 44, 44, 178],
     "opacity": 0.7,
-    "fillColor": [150, 44, 44, 102],
+    "fillColor": "#962C2C66",
+    "fillColorRGBA": [150, 44, 44, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -174,7 +191,8 @@
     "color": "#2ABAE2B2",
     "colorRGBA": [42, 186, 226, 178],
     "opacity": 0.7,
-    "fillColor": [42, 186, 226, 102],
+    "fillColor": "#2ABAE266",
+    "fillColorRGBA": [42, 186, 226, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -184,7 +202,8 @@
     "color": "#FFC9C7B2",
     "colorRGBA": [255, 201, 199, 178],
     "opacity": 0.7,
-    "fillColor": [255, 201, 199, 102],
+    "fillColor": "#FFC9C766",
+    "fillColorRGBA": [255, 201, 199, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -194,7 +213,8 @@
     "color": "#FFC9C7B2",
     "colorRGBA": [255, 201, 199, 178],
     "opacity": 0.7,
-    "fillColor": [255, 201, 199, 102],
+    "fillColor": "#FFC9C766",
+    "fillColorRGBA": [255, 201, 199, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -204,7 +224,8 @@
     "color": "#CC3A2FB2",
     "colorRGBA": [204, 58, 47, 178],
     "opacity": 0.7,
-    "fillColor": [204, 58, 47, 102],
+    "fillColor": "#CC3A2F66",
+    "fillColorRGBA": [204, 58, 47, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -214,7 +235,8 @@
     "color": "#CC3A2FB2",
     "colorRGBA": [204, 58, 47, 178],
     "opacity": 0.7,
-    "fillColor": [204, 58, 47, 102],
+    "fillColor": "#CC3A2F66",
+    "fillColorRGBA": [204, 58, 47, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -224,7 +246,8 @@
     "color": "#FF9A80B2",
     "colorRGBA": [255, 154, 128, 178],
     "opacity": 0.7,
-    "fillColor": [255, 154, 128, 102],
+    "fillColor": "#FF9A8066",
+    "fillColorRGBA": [255, 154, 128, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -234,7 +257,8 @@
     "color": "#FF9A80B2",
     "colorRGBA": [255, 154, 128, 178],
     "opacity": 0.7,
-    "fillColor": [255, 154, 128, 102],
+    "fillColor": "#FF9A8066",
+    "fillColorRGBA": [255, 154, 128, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -244,7 +268,8 @@
     "color": "#BAE5DFFF",
     "colorRGBA": [186, 229, 223, 255],
     "opacity": 1.0,
-    "fillColor": [186, 229, 223, 102],
+    "fillColor": "#BAE5DF66",
+    "fillColorRGBA": [186, 229, 223, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -254,7 +279,8 @@
     "color": "#6EBCC4B2",
     "colorRGBA": [110, 188, 196, 178],
     "opacity": 0.7,
-    "fillColor": [110, 188, 196, 102],
+    "fillColor": "#6EBCC466",
+    "fillColorRGBA": [110, 188, 196, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -264,7 +290,8 @@
     "color": "#6EBCC4B2",
     "colorRGBA": [110, 188, 196, 178],
     "opacity": 0.7,
-    "fillColor": [110, 188, 196, 102],
+    "fillColor": "#6EBCC466",
+    "fillColorRGBA": [110, 188, 196, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -274,7 +301,8 @@
     "color": "#CCCBCAFF",
     "colorRGBA": [204, 203, 202, 255],
     "opacity": 1.0,
-    "fillColor": [204, 203, 202, 102],
+    "fillColor": "#CCCBCA66",
+    "fillColorRGBA": [204, 203, 202, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -284,7 +312,8 @@
     "color": "#83B5FFFF",
     "colorRGBA": [131, 181, 255, 255],
     "opacity": 1.0,
-    "fillColor": [131, 181, 255, 102],
+    "fillColor": "#83B5FF66",
+    "fillColorRGBA": [131, 181, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -294,7 +323,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -304,7 +334,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -314,7 +345,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -324,7 +356,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -334,7 +367,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -344,7 +378,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -354,7 +389,8 @@
     "color": "#DBD59CFF",
     "colorRGBA": [219, 213, 156, 255],
     "opacity": 1.0,
-    "fillColor": [219, 213, 156, 102],
+    "fillColor": "#DBD59C66",
+    "fillColorRGBA": [219, 213, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -364,7 +400,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -374,7 +411,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -384,7 +422,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -394,7 +433,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -404,7 +444,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -414,7 +455,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -424,7 +466,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -434,7 +477,8 @@
     "color": "#CCDB9CFF",
     "colorRGBA": [204, 219, 156, 255],
     "opacity": 1.0,
-    "fillColor": [204, 219, 156, 102],
+    "fillColor": "#CCDB9C66",
+    "fillColorRGBA": [204, 219, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -444,7 +488,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -454,7 +499,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -464,7 +510,8 @@
     "color": "#7679DEFF",
     "colorRGBA": [118, 121, 222, 255],
     "opacity": 1.0,
-    "fillColor": [118, 121, 222, 102],
+    "fillColor": "#7679DE66",
+    "fillColorRGBA": [118, 121, 222, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -474,7 +521,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -484,7 +532,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -494,7 +543,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -504,7 +554,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -514,7 +565,8 @@
     "color": "#CCDB9CFF",
     "colorRGBA": [204, 219, 156, 255],
     "opacity": 1.0,
-    "fillColor": [204, 219, 156, 102],
+    "fillColor": "#CCDB9C66",
+    "fillColorRGBA": [204, 219, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -524,7 +576,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -534,7 +587,8 @@
     "color": "#CCDB9CFF",
     "colorRGBA": [204, 219, 156, 255],
     "opacity": 1.0,
-    "fillColor": [204, 219, 156, 102],
+    "fillColor": "#CCDB9C66",
+    "fillColorRGBA": [204, 219, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -544,7 +598,8 @@
     "color": "#CCDB9CFF",
     "colorRGBA": [204, 219, 156, 255],
     "opacity": 1.0,
-    "fillColor": [204, 219, 156, 102],
+    "fillColor": "#CCDB9C66",
+    "fillColorRGBA": [204, 219, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -554,7 +609,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -564,7 +620,8 @@
     "color": "#9CD89CFF",
     "colorRGBA": [156, 216, 156, 255],
     "opacity": 1.0,
-    "fillColor": [156, 216, 156, 102],
+    "fillColor": "#9CD89C66",
+    "fillColorRGBA": [156, 216, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -574,7 +631,8 @@
     "color": "#CCCBCAFF",
     "colorRGBA": [204, 203, 202, 255],
     "opacity": 1.0,
-    "fillColor": [204, 203, 202, 102],
+    "fillColor": "#CCCBCA66",
+    "fillColorRGBA": [204, 203, 202, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -584,7 +642,8 @@
     "color": "#DE7BEFFF",
     "colorRGBA": [222, 123, 239, 255],
     "opacity": 1.0,
-    "fillColor": [222, 123, 239, 102],
+    "fillColor": "#DE7BEF66",
+    "fillColorRGBA": [222, 123, 239, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -594,7 +653,8 @@
     "color": "#DE7BEFFF",
     "colorRGBA": [222, 123, 239, 255],
     "opacity": 1.0,
-    "fillColor": [222, 123, 239, 102],
+    "fillColor": "#DE7BEF66",
+    "fillColorRGBA": [222, 123, 239, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -604,7 +664,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -614,7 +675,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -624,7 +686,8 @@
     "color": "#9CD89CFF",
     "colorRGBA": [156, 216, 156, 255],
     "opacity": 1.0,
-    "fillColor": [156, 216, 156, 102],
+    "fillColor": "#9CD89C66",
+    "fillColorRGBA": [156, 216, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -634,7 +697,8 @@
     "color": "#66E5FFFF",
     "colorRGBA": [102, 229, 255, 255],
     "opacity": 1.0,
-    "fillColor": [102, 229, 255, 102],
+    "fillColor": "#66E5FF66",
+    "fillColorRGBA": [102, 229, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -644,7 +708,8 @@
     "color": "#83B5FFFF",
     "colorRGBA": [131, 181, 255, 255],
     "opacity": 1.0,
-    "fillColor": [131, 181, 255, 102],
+    "fillColor": "#83B5FF66",
+    "fillColorRGBA": [131, 181, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -654,7 +719,8 @@
     "color": "#7DF9EDFF",
     "colorRGBA": [125, 249, 237, 255],
     "opacity": 1.0,
-    "fillColor": [125, 249, 237, 102],
+    "fillColor": "#7DF9ED66",
+    "fillColorRGBA": [125, 249, 237, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -664,7 +730,8 @@
     "color": "#FCCADAFF",
     "colorRGBA": [252, 202, 218, 255],
     "opacity": 1.0,
-    "fillColor": [252, 202, 218, 102],
+    "fillColor": "#FCCADA66",
+    "fillColorRGBA": [252, 202, 218, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -674,7 +741,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -684,7 +752,8 @@
     "color": "#CCCBCAFF",
     "colorRGBA": [204, 203, 202, 255],
     "opacity": 1.0,
-    "fillColor": [204, 203, 202, 102],
+    "fillColor": "#CCCBCA66",
+    "fillColorRGBA": [204, 203, 202, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -694,7 +763,8 @@
     "color": "#9FEDCCFF",
     "colorRGBA": [159, 237, 204, 255],
     "opacity": 1.0,
-    "fillColor": [159, 237, 204, 102],
+    "fillColor": "#9FEDCC66",
+    "fillColorRGBA": [159, 237, 204, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -704,7 +774,8 @@
     "color": "#CCDB9CFF",
     "colorRGBA": [204, 219, 156, 255],
     "opacity": 1.0,
-    "fillColor": [204, 219, 156, 102],
+    "fillColor": "#CCDB9C66",
+    "fillColorRGBA": [204, 219, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -714,7 +785,8 @@
     "color": "#7B97FFFF",
     "colorRGBA": [123, 151, 255, 255],
     "opacity": 1.0,
-    "fillColor": [123, 151, 255, 102],
+    "fillColor": "#7B97FF66",
+    "fillColorRGBA": [123, 151, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -724,7 +796,8 @@
     "color": "#DBD59CFF",
     "colorRGBA": [219, 213, 156, 255],
     "opacity": 1.0,
-    "fillColor": [219, 213, 156, 102],
+    "fillColor": "#DBD59C66",
+    "fillColorRGBA": [219, 213, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -734,7 +807,8 @@
     "color": "#7679DEFF",
     "colorRGBA": [118, 121, 222, 255],
     "opacity": 1.0,
-    "fillColor": [118, 121, 222, 102],
+    "fillColor": "#7679DE66",
+    "fillColorRGBA": [118, 121, 222, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -744,7 +818,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -754,7 +829,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -764,7 +840,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -774,7 +851,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -784,7 +862,8 @@
     "color": "#83B5FFFF",
     "colorRGBA": [131, 181, 255, 255],
     "opacity": 1.0,
-    "fillColor": [131, 181, 255, 102],
+    "fillColor": "#83B5FF66",
+    "fillColorRGBA": [131, 181, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -794,7 +873,8 @@
     "color": "#66E5FFFF",
     "colorRGBA": [102, 229, 255, 255],
     "opacity": 1.0,
-    "fillColor": [102, 229, 255, 102],
+    "fillColor": "#66E5FF66",
+    "fillColorRGBA": [102, 229, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -804,7 +884,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -814,7 +895,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -824,7 +906,8 @@
     "color": "#9FEDCCFF",
     "colorRGBA": [159, 237, 204, 255],
     "opacity": 1.0,
-    "fillColor": [159, 237, 204, 102],
+    "fillColor": "#9FEDCC66",
+    "fillColorRGBA": [159, 237, 204, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -834,7 +917,8 @@
     "color": "#7B97FFFF",
     "colorRGBA": [123, 151, 255, 255],
     "opacity": 1.0,
-    "fillColor": [123, 151, 255, 102],
+    "fillColor": "#7B97FF66",
+    "fillColorRGBA": [123, 151, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -844,7 +928,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -854,7 +939,8 @@
     "color": "#DBD59CFF",
     "colorRGBA": [219, 213, 156, 255],
     "opacity": 1.0,
-    "fillColor": [219, 213, 156, 102],
+    "fillColor": "#DBD59C66",
+    "fillColorRGBA": [219, 213, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -864,7 +950,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -874,7 +961,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -884,7 +972,8 @@
     "color": "#7DF9EDFF",
     "colorRGBA": [125, 249, 237, 255],
     "opacity": 1.0,
-    "fillColor": [125, 249, 237, 102],
+    "fillColor": "#7DF9ED66",
+    "fillColorRGBA": [125, 249, 237, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -894,7 +983,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -904,7 +994,8 @@
     "color": "#CCDB9CFF",
     "colorRGBA": [204, 219, 156, 255],
     "opacity": 1.0,
-    "fillColor": [204, 219, 156, 102],
+    "fillColor": "#CCDB9C66",
+    "fillColorRGBA": [204, 219, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -914,7 +1005,8 @@
     "color": "#CCDB9CFF",
     "colorRGBA": [204, 219, 156, 255],
     "opacity": 1.0,
-    "fillColor": [204, 219, 156, 102],
+    "fillColor": "#CCDB9C66",
+    "fillColorRGBA": [204, 219, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -924,7 +1016,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -934,7 +1027,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -944,7 +1038,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -954,7 +1049,8 @@
     "color": "#9FEDCCFF",
     "colorRGBA": [159, 237, 204, 255],
     "opacity": 1.0,
-    "fillColor": [159, 237, 204, 102],
+    "fillColor": "#9FEDCC66",
+    "fillColorRGBA": [159, 237, 204, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -964,7 +1060,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -974,7 +1071,8 @@
     "color": "#9FEDCCFF",
     "colorRGBA": [159, 237, 204, 255],
     "opacity": 1.0,
-    "fillColor": [159, 237, 204, 102],
+    "fillColor": "#9FEDCC66",
+    "fillColorRGBA": [159, 237, 204, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -984,7 +1082,8 @@
     "color": "#9CD89CFF",
     "colorRGBA": [156, 216, 156, 255],
     "opacity": 1.0,
-    "fillColor": [156, 216, 156, 102],
+    "fillColor": "#9CD89C66",
+    "fillColorRGBA": [156, 216, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -994,7 +1093,8 @@
     "color": "#7DF9EDFF",
     "colorRGBA": [125, 249, 237, 255],
     "opacity": 1.0,
-    "fillColor": [125, 249, 237, 102],
+    "fillColor": "#7DF9ED66",
+    "fillColorRGBA": [125, 249, 237, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1004,7 +1104,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1014,7 +1115,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1024,7 +1126,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1034,7 +1137,8 @@
     "color": "#7B97FFFF",
     "colorRGBA": [123, 151, 255, 255],
     "opacity": 1.0,
-    "fillColor": [123, 151, 255, 102],
+    "fillColor": "#7B97FF66",
+    "fillColorRGBA": [123, 151, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1044,7 +1148,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1054,7 +1159,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1064,7 +1170,8 @@
     "color": "#DE7BEFFF",
     "colorRGBA": [222, 123, 239, 255],
     "opacity": 1.0,
-    "fillColor": [222, 123, 239, 102],
+    "fillColor": "#DE7BEF66",
+    "fillColorRGBA": [222, 123, 239, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1074,7 +1181,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1084,7 +1192,8 @@
     "color": "#CCCBCAFF",
     "colorRGBA": [204, 203, 202, 255],
     "opacity": 1.0,
-    "fillColor": [204, 203, 202, 102],
+    "fillColor": "#CCCBCA66",
+    "fillColorRGBA": [204, 203, 202, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1094,7 +1203,8 @@
     "color": "#7DF9EDFF",
     "colorRGBA": [125, 249, 237, 255],
     "opacity": 1.0,
-    "fillColor": [125, 249, 237, 102],
+    "fillColor": "#7DF9ED66",
+    "fillColorRGBA": [125, 249, 237, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1104,7 +1214,8 @@
     "color": "#66E5FFFF",
     "colorRGBA": [102, 229, 255, 255],
     "opacity": 1.0,
-    "fillColor": [102, 229, 255, 102],
+    "fillColor": "#66E5FF66",
+    "fillColorRGBA": [102, 229, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1114,7 +1225,8 @@
     "color": "#9FEDCCFF",
     "colorRGBA": [159, 237, 204, 255],
     "opacity": 1.0,
-    "fillColor": [159, 237, 204, 102],
+    "fillColor": "#9FEDCC66",
+    "fillColorRGBA": [159, 237, 204, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1124,7 +1236,8 @@
     "color": "#9FEDCCFF",
     "colorRGBA": [159, 237, 204, 255],
     "opacity": 1.0,
-    "fillColor": [159, 237, 204, 102],
+    "fillColor": "#9FEDCC66",
+    "fillColorRGBA": [159, 237, 204, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1134,7 +1247,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1144,7 +1258,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1154,7 +1269,8 @@
     "color": "#CCCBCAFF",
     "colorRGBA": [204, 203, 202, 255],
     "opacity": 1.0,
-    "fillColor": [204, 203, 202, 102],
+    "fillColor": "#CCCBCA66",
+    "fillColorRGBA": [204, 203, 202, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1164,7 +1280,8 @@
     "color": "#7679DEFF",
     "colorRGBA": [118, 121, 222, 255],
     "opacity": 1.0,
-    "fillColor": [118, 121, 222, 102],
+    "fillColor": "#7679DE66",
+    "fillColorRGBA": [118, 121, 222, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1174,7 +1291,8 @@
     "color": "#83B5FFFF",
     "colorRGBA": [131, 181, 255, 255],
     "opacity": 1.0,
-    "fillColor": [131, 181, 255, 102],
+    "fillColor": "#83B5FF66",
+    "fillColorRGBA": [131, 181, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1184,7 +1302,8 @@
     "color": "#7DF9EDFF",
     "colorRGBA": [125, 249, 237, 255],
     "opacity": 1.0,
-    "fillColor": [125, 249, 237, 102],
+    "fillColor": "#7DF9ED66",
+    "fillColorRGBA": [125, 249, 237, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1194,7 +1313,8 @@
     "color": "#66E5FFFF",
     "colorRGBA": [102, 229, 255, 255],
     "opacity": 1.0,
-    "fillColor": [102, 229, 255, 102],
+    "fillColor": "#66E5FF66",
+    "fillColorRGBA": [102, 229, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1204,7 +1324,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1214,7 +1335,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1224,7 +1346,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1234,7 +1357,8 @@
     "color": "#66E5FFFF",
     "colorRGBA": [102, 229, 255, 255],
     "opacity": 1.0,
-    "fillColor": [102, 229, 255, 102],
+    "fillColor": "#66E5FF66",
+    "fillColorRGBA": [102, 229, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1244,7 +1368,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1254,7 +1379,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1264,7 +1390,8 @@
     "color": "#FCCADAFF",
     "colorRGBA": [252, 202, 218, 255],
     "opacity": 1.0,
-    "fillColor": [252, 202, 218, 102],
+    "fillColor": "#FCCADA66",
+    "fillColorRGBA": [252, 202, 218, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1274,7 +1401,8 @@
     "color": "#7DF9EDFF",
     "colorRGBA": [125, 249, 237, 255],
     "opacity": 1.0,
-    "fillColor": [125, 249, 237, 102],
+    "fillColor": "#7DF9ED66",
+    "fillColorRGBA": [125, 249, 237, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1284,7 +1412,8 @@
     "color": "#CCDB9CFF",
     "colorRGBA": [204, 219, 156, 255],
     "opacity": 1.0,
-    "fillColor": [204, 219, 156, 102],
+    "fillColor": "#CCDB9C66",
+    "fillColorRGBA": [204, 219, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1294,7 +1423,8 @@
     "color": "#83B5FFFF",
     "colorRGBA": [131, 181, 255, 255],
     "opacity": 1.0,
-    "fillColor": [131, 181, 255, 102],
+    "fillColor": "#83B5FF66",
+    "fillColorRGBA": [131, 181, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1304,7 +1434,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1314,7 +1445,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1324,7 +1456,8 @@
     "color": "#66E5FFFF",
     "colorRGBA": [102, 229, 255, 255],
     "opacity": 1.0,
-    "fillColor": [102, 229, 255, 102],
+    "fillColor": "#66E5FF66",
+    "fillColorRGBA": [102, 229, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1334,7 +1467,8 @@
     "color": "#9CD89CFF",
     "colorRGBA": [156, 216, 156, 255],
     "opacity": 1.0,
-    "fillColor": [156, 216, 156, 102],
+    "fillColor": "#9CD89C66",
+    "fillColorRGBA": [156, 216, 156, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1344,7 +1478,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1354,7 +1489,8 @@
     "color": "#E6CCFFFF",
     "colorRGBA": [230, 204, 255, 255],
     "opacity": 1.0,
-    "fillColor": [230, 204, 255, 102],
+    "fillColor": "#E6CCFF66",
+    "fillColorRGBA": [230, 204, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1364,7 +1500,8 @@
     "color": "#FCCADAFF",
     "colorRGBA": [252, 202, 218, 255],
     "opacity": 1.0,
-    "fillColor": [252, 202, 218, 102],
+    "fillColor": "#FCCADA66",
+    "fillColorRGBA": [252, 202, 218, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1374,7 +1511,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1384,7 +1522,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1394,7 +1533,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1404,7 +1544,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1414,7 +1555,8 @@
     "color": "#66E5FFFF",
     "colorRGBA": [102, 229, 255, 255],
     "opacity": 1.0,
-    "fillColor": [102, 229, 255, 102],
+    "fillColor": "#66E5FF66",
+    "fillColorRGBA": [102, 229, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1424,7 +1566,8 @@
     "color": "#FFFFFFFF",
     "colorRGBA": [255, 255, 255, 255],
     "opacity": 1.0,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1434,7 +1577,8 @@
     "color": "#1D9696B2",
     "colorRGBA": [29, 150, 150, 178],
     "opacity": 0.7,
-    "fillColor": [29, 150, 150, 102],
+    "fillColor": "#1D969666",
+    "fillColorRGBA": [29, 150, 150, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1444,7 +1588,8 @@
     "color": "#1D9696B2",
     "colorRGBA": [29, 150, 150, 178],
     "opacity": 0.7,
-    "fillColor": [29, 150, 150, 102],
+    "fillColor": "#1D969666",
+    "fillColorRGBA": [29, 150, 150, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1454,7 +1599,8 @@
     "color": "#2ABAE2B2",
     "colorRGBA": [42, 186, 226, 178],
     "opacity": 0.7,
-    "fillColor": [42, 186, 226, 102],
+    "fillColor": "#2ABAE266",
+    "fillColorRGBA": [42, 186, 226, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1464,7 +1610,8 @@
     "color": "#FFFFFFB2",
     "colorRGBA": [255, 255, 255, 178],
     "opacity": 0.7,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1474,7 +1621,8 @@
     "color": "#FFFFFFB2",
     "colorRGBA": [255, 255, 255, 178],
     "opacity": 0.7,
-    "fillColor": [255, 255, 255, 102],
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [255, 255, 255, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1484,7 +1632,8 @@
     "color": "#361754B2",
     "colorRGBA": [54, 23, 84, 178],
     "opacity": 0.7,
-    "fillColor": [54, 23, 84, 102],
+    "fillColor": "#36175466",
+    "fillColorRGBA": [54, 23, 84, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1494,7 +1643,8 @@
     "color": "#F3D94EB2",
     "colorRGBA": [243, 217, 78, 178],
     "opacity": 0.7,
-    "fillColor": [243, 217, 78, 102],
+    "fillColor": "#F3D94E66",
+    "fillColorRGBA": [243, 217, 78, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0
@@ -1504,7 +1654,8 @@
     "color": "#F3D94EB2",
     "colorRGBA": [243, 217, 78, 178],
     "opacity": 0.7,
-    "fillColor": [243, 217, 78, 102],
+    "fillColor": "#F3D94E66",
+    "fillColorRGBA": [243, 217, 78, 102],
     "fillOpacity": 0.4,
     "labelSize": 0.0,
     "labelOpacity": 0.0

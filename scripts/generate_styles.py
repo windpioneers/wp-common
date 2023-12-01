@@ -112,7 +112,8 @@ def transform_styles_for_windquest(styles):
             "color": color,  # Gets applied to paths as stroke-color
             "colorRGBA": color_rgba,
             "opacity": opacity,  # Gets applied to paths as stroke-opacity
-            "fillColor": fill_color_rgba,  # Gets applied to paths as fill-color
+            "fillColor": fill_color,  # Gets applied to paths as fill-color
+            "fillColorRGBA": fill_color_rgba,  # Gets applied to paths as fill-color
             "fillOpacity": fill_opacity,  # Gets applied to paths as fill-opacity
             "labelSize": value["label_size"],
             "labelOpacity": value["label_opacity"],
