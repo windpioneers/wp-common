@@ -39,7 +39,11 @@ def generate_icon_atlas(images, file_path, icons_in_a_row=10, spacing=10, embed_
     icon_mapping = {}
 
     # Assume all icons have the same height and width
-    width, height = images[0].size
+    # width, height = images[0].size
+
+    # Assume all icons have a base size of 50px
+    # this can be scaled up or down using styles
+    width = height = 50
 
     # Initialize icon atlas
     icon_atlas_width = (width * icons_in_a_row) + (spacing * (icons_in_a_row + 1))
@@ -58,16 +62,26 @@ def generate_icon_atlas(images, file_path, icons_in_a_row=10, spacing=10, embed_
         image_x = spacing + (width * column) + (spacing * column)
         image_y = spacing + (height * row) + (spacing * row)
 
+        icon_name = os.path.splitext(os.path.basename(image.filename))[0]
+
+        image = image.resize((width, height))
         icon_atlas.paste(image, (image_x, image_y))
 
-        icon_name = os.path.splitext(os.path.basename(image.filename))[0]
+        is_legacy_icon = not icon_name.startswith("style_")
+        is_legacy_turbine_icon = icon_name == "turbineIcon"
+
+        mask = True if is_legacy_icon else False
+        anchorY = height if is_legacy_turbine_icon else height / 2
+
         icon_mapping[icon_name] = {
             "x": image_x,
             "y": image_y,
             "width": width,
             "height": height,
-            "mask": False,  # Set this to True if we want to change the icon colors dynamically
-            "anchorY": height / 2,  # If the icon has a glyph or is not centered do 'height'
+            # Set this to True if we want to change the icon colors dynamically
+            # Old icons were set to be used in mask mode, so WQ adds colors to it (even though its just white)
+            "mask": mask,
+            "anchorY": anchorY,  # If the icon has a glyph or is not centered do 'height'
         }
 
     icon_atlas.save(file_path)

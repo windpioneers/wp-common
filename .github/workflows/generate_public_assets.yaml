@@ -28,12 +28,17 @@ jobs:
       - name: Install dependencies
         run: poetry install
 
+      # Generate styles before generating icons because iconMap will read the icon size, etc from the style (if same name)
+      - name: Generate styles
+        id: generate-styles
+        run: poetry run python scripts/generate_styles.py
+
       - name: Generate icon atlas and icon mapping
         id: generate-icon-meta
         run: poetry run python scripts/generate_icon_atlas_and_mapping.py
 
-      - name: Commit sprite sheet to repo public folder
+      - name: Commit sprite sheet and styles.json to repo public folder
         id: commit-back
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "OPS: Generate icon atlas and icon mapping"
+          commit_message: "OPS: Generate icon atlas, icon mapping and styles"
