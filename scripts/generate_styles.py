@@ -29,6 +29,7 @@ STYLE_SCHEMA = {
         "icon_color": {"type": "hexColor"},
         "icon_opacity": {"type": "number"},
         "label_size": {"type": "number"},
+        "label_opacity": {"type": "number"},
         "line_color": {"type": "hexColor"},
         "line_width": {"type": "number"},
         "line_opacity": {"type": "number"},
@@ -39,17 +40,35 @@ STYLE_SCHEMA = {
 
 
 def convert_to_hex_color(value):
-    if isinstance(value, str) and len(value) in [3, 4, 6, 8, 9, 12]:
-        return ("#" + value).replace("##", "#").upper()
+    if isinstance(value, str) and len(value) in [7, 9] and value.startswith("#"):
+        return value.upper()
 
-    raise TypeError(f"hexcolor should be a string type with a specific character count: '{value}'")
+    raise TypeError(
+        f"hexcolor should be a string type which starts with '#' with a specific character count: '{value}'"
+    )
 
 
 SCHEMA_TYPE_CAST_MAP = {"number": float, "hexColor": convert_to_hex_color, "string": str, "integer": int}
 
 
+def convert_hex_to_rgba(code):
+    code = code.replace("#", "")
+
+    if not len(code) in [6, 8]:
+        raise ValueError(f"Hex color code should be a 6 or 8 (with alpha) character code. '{code}'")
+
+    rgba = []
+    for i in (0, 2, 4, 6):
+        if i == 6 and len(code) == 6:
+            rgba.append(255)
+        else:
+            rgba.append(int(code[i : i + 2], 16))
+
+    return rgba
+
+
 def add_alpha_proportion_to_hex_color(color_code, proportion):
-    return "{}{:02x}".format(color_code, int(proportion * 255))
+    return "{}{:02x}".format(color_code, int(proportion * 255)).upper()
 
 
 def generate_style(row, headers):
@@ -81,16 +100,22 @@ def transform_styles_for_windquest(styles):
     for key, value in styles.items():
         opacity = value["line_opacity"] / 100
         fill_opacity = value["area_opacity"] / 100
+
+        color = add_alpha_proportion_to_hex_color(value["line_color"], opacity)
+        color_rgba = convert_hex_to_rgba(color)
+
+        fill_color = add_alpha_proportion_to_hex_color(value["area_color"], fill_opacity)
+        fill_color_rgba = convert_hex_to_rgba(fill_color)
+
         wq_styles[key] = {
             "weight": value["line_width"] * 3,  # Gets applied to paths as stroke-width. WQ medium line weight is 3
-            "color": add_alpha_proportion_to_hex_color(
-                value["line_color"], opacity
-            ),  # Gets applied to paths as stroke-color
+            "color": color,  # Gets applied to paths as stroke-color
+            "colorRGBA": color_rgba,
             "opacity": opacity,  # Gets applied to paths as stroke-opacity
-            "fillColor": add_alpha_proportion_to_hex_color(
-                value["area_color"], fill_opacity
-            ),  # Gets applied to paths as fill-color
+            "fillColor": fill_color_rgba,  # Gets applied to paths as fill-color
             "fillOpacity": fill_opacity,  # Gets applied to paths as fill-opacity
+            "labelSize": value["label_size"],
+            "labelOpacity": value["label_opacity"],
         }
 
     return wq_styles
