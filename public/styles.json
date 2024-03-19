@@ -1259,6 +1259,20 @@
     "area_color": "#FFFFFF",
     "area_opacity": 40.0
   },
+  "style_Lidar": {
+    "style_name": "style_Lidar",
+    "icon_name": "style_Lidar",
+    "icon_size": 0.6,
+    "icon_color": "#FFFFFF",
+    "icon_opacity": 0.8,
+    "label_size": 0.0,
+    "label_opacity": 1.0,
+    "line_color": "#FFFFFF",
+    "line_width": 1.0,
+    "line_opacity": 100.0,
+    "area_color": "#FFFFFF",
+    "area_opacity": 40.0
+  },
   "style_Lime": {
     "style_name": "style_Lime",
     "icon_name": "style_Lime",

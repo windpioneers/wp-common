@@ -2069,6 +2069,29 @@
     "iconOpacity": 0.008,
     "iconSize": 0.6
   },
+  "style_Lidar": {
+    "weight": 1.0,
+    "color": "#FFFFFFFF",
+    "colorRGBA": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "opacity": 1.0,
+    "fillColor": "#FFFFFF66",
+    "fillColorRGBA": [
+      255,
+      255,
+      255,
+      102
+    ],
+    "fillOpacity": 0.4,
+    "labelSize": 0.0,
+    "labelOpacity": 1.0,
+    "iconOpacity": 0.008,
+    "iconSize": 0.6
+  },
   "style_Lime": {
     "weight": 1.0,
     "color": "#EDF97DFF",
